@@ -1,0 +1,42 @@
+---
+author: Ayush M
+fetched_at: '2026-08-22T11:43:10.189366Z'
+id: e5c748682a71
+lane: lead
+published: ''
+source: linkedin
+title: 'Something that changed how we approach client work.
+
+   
+
+  We started using AI to analyse operational patterns across project'
+url: https://www.linkedin.com/posts/ayush-m-3ab200383_aianalysis-businessintelligence-datadriven-activity-7496883884815745024-riIO
+---
+
+Something that changed how we approach client work.
+ 
+We started using AI to analyse operational patterns across projects and it produced insights that manual review would have missed or taken significantly longer to find.
+ 
+One example.
+ 
+A client's customer support team was handling a high volume of queries. We analysed the query data with AI assistance to identify patterns.
+ 
+What we found: 34% of all queries were variations of the same 3 questions. All three could be answered with a simple automated response without any loss of quality.
+ 
+That one insight meant 34% of the support team's workload could be eliminated through a simple automation.
+ 
+The client had been looking at this data manually for months and had not identified the pattern clearly enough to act on it.
+ 
+Not because they were not looking. Because finding patterns in high-volume unstructured data manually is genuinely difficult.
+ 
+AI is very good at finding patterns.
+ 
+Humans are very good at deciding what to do with them.
+ 
+When we combine the two the analysis is more precise, the decisions are better, and the implementation is faster.
+ 
+This is now a regular part of how we approach operational problems with clients.
+ 
+Find the pattern first. Then build the solution.
+ 
+#AIAnalysis #BusinessIntelligence #DataDriven #Codetoli

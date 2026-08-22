@@ -8,10 +8,10 @@ hook: ''
 id: 0eeea3e1e99a
 lane: cut
 pain_signal: ''
-reason: AI-industry commentary about a global bank — no named SMB buyer and Lloyds
-  is far outside anything you can sell into solo.
+reason: Commentary account summarising a Lloyds Bank AI story — enterprise news, no
+  reachable SMB buyer.
 score: 0
-scored_at: '2026-08-22T11:17:15.097403Z'
+scored_at: '2026-08-22T11:46:19.677661Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/aidrivesbiz_return-on-relationships-why-the-future-of-activity-7496881568263720961-1MjY

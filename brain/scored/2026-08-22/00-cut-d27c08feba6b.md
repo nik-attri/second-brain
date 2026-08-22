@@ -8,10 +8,10 @@ hook: ''
 id: d27c08feba6b
 lane: cut
 pain_signal: ''
-reason: A hackathon post-mortem from a builder describing his own architecture — no
-  buyer, no budget.
+reason: Hackathon post-mortem from a peer building agentic systems himself; zero client
+  signal.
 score: 0
-scored_at: '2026-08-22T11:17:15.150018Z'
+scored_at: '2026-08-22T11:46:19.734943Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/emeka-ogbonnaya_a-bit-gutted-not-to-make-the-cut-on-the-c-activity-7496867142160646144-MewJ

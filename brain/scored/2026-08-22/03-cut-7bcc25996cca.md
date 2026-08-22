@@ -1,18 +1,18 @@
 ---
 author: Fawad Ahmed🟡
 automation_hypothesis: ''
-budget_signal: ''
+budget_signal: None; individual freelancer
 company: ''
 contact_name: Fawad Ahmed
 hook: ''
 id: 7bcc25996cca
 lane: cut
-pain_signal: I did all of this manually because I wanted to test the strategy properly
-  for my client
-reason: Amazon PPC freelancer sharing a keyword tactic — he's a service provider,
-  not a buyer, and there's no company with $5K/month behind it.
+pain_signal: '"I did all of this manually because I wanted to test the strategy properly
+  for my client"'
+reason: A solo Amazon PPC freelancer describing manual keyword work — real manual
+  pain but he's a one-man operation with no $5K/month budget.
 score: 3
-scored_at: '2026-08-22T11:17:15.132784Z'
+scored_at: '2026-08-22T11:46:19.711588Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/fawad-ahmed-amazon-specialist_amazon-amazonppc-amazonexpert-activity-7496874731250491392-qi4w

@@ -1,0 +1,36 @@
+---
+author: Get Set Office
+fetched_at: '2026-08-22T11:43:10.180062Z'
+id: 357442d31a5c
+lane: lead
+published: ''
+source: linkedin
+title: 'We''re hiring. Three roles. All at Get Set Office.
+
+  Two years ago we started with one centre in Green Park. Today we run G'
+url: https://www.linkedin.com/posts/get-set-office_getsetoffice-hiring-delhijobs-activity-7496888654922145793-Y3j1
+---
+
+We're hiring. Three roles. All at Get Set Office.
+Two years ago we started with one centre in Green Park. Today we run Green Park and Gurugram, another one is on the way, and the team that got us here is ready to grow.
+
+So we're looking for three people to join us 👇
+
+1. Accounts Manager | 1–3 years | Delhi-NCR
+ You'll own our finance function end to end — client billing, receivables, GST and TDS filings, reconciliations and monthly MIS. If you've actually filed returns and not just assisted someone who did, we want to talk to you.
+
+2. Operations Executive | 0–2 years | Delhi-NCR
+ The face of our centre. Front desk, client experience, day-to-day operations, vendor and facility coordination. Freshers are welcome — attitude matters more than your CV here.
+
+3. Centre Manager | 3–5 years | Delhi NCR
+ End-to-end responsibility for a centre — operations, occupancy, renewals, client retention and leading the on-site team.
+
+Why us?
+We're small enough that your work is visible on day one, and growing fast enough that there's real room to move up. One of our team members joined as an Operations Executive straight out of college and now runs an entire centre. That's not a story we tell in interviews — it's what actually happened this month.
+You'll work directly with the founder, you'll own your function, and you won't spend your days waiting for approvals from four layers above you.
+
+To apply: send your CV to 📧 👉 getsetoffice@gmail.com with the role name in the subject line. Or simply DM me here.
+
+If you know someone who'd be a fit, please tag them or share this post — it genuinely helps.
+
+#GetSetOffice #Hiring #DelhiJobs #DelhiNCR #Coworking #AccountsJobs #OperationsJobs #NowHiring #HiringAlert #GurugramJobs #JobsInDelhi

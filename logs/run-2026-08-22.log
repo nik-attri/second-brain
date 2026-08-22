@@ -1,0 +1,39 @@
+
+===== run 2026-08-22T11:42:53.641281Z =====
+
+--- ingest.py ---
+ingesting 2026-08-22
+  youtube @nicksaraev -> 15
+  youtube @lennyspodcast -> 15
+  youtube @campusx-official -> 15
+  youtube @krishnaik06 -> 15
+  linkedin leads (6 queries) -> 60 posts
+  linkedin capability (1 authors) -> 0 posts
+fetched 120 raw items
+prefilter: 41 kept, 79 dropped (dupe/short/older than 7d)
+wrote 41 -> /home/runner/work/second-brain/second-brain/brain/raw/2026-08-22
+
+--- score.py ---
+scoring batch 1/9 (12 items)
+scoring batch 2/9 (12 items)
+scoring batch 3/9 (12 items)
+scoring batch 4/9 (12 items)
+scoring batch 5/9 (12 items)
+scoring batch 6/9 (12 items)
+scoring batch 7/9 (12 items)
+scoring batch 8/9 (12 items)
+scoring batch 9/9 (8 items)
+
+BEFORE: 104 raw items
+AFTER:  3 kept (score >= 6)
+-> /home/runner/work/second-brain/second-brain/brain/scored/2026-08-22
+
+--- verify.py ---
+  OK  KNCS Tech (hiring for a Pashamylaram manufacturer) -> https://www.kncstech.com
+  OK  Marseilia Group -> https://www.linkedin.com/pub/dir/Rana/Mohamed
+  OK  Unnamed CA practice (via Ashwani Kawdiya) -> https://dwpivt501gtb6.cloudfront.net/upload/about/Journal/Sep11.pdf
+  OK  General Insulation (GIC) -> https://www.generalinsulation.com/meet-general-insulations-new-president-and-ceo-frank-granara-ii
+verified 4 leads
+
+--- synthesize.py ---
+digest -> /home/runner/work/second-brain/second-brain/brain/synth/2026-08-22-digest.md (4 kept)

@@ -6,15 +6,14 @@ company: ''
 contact_name: ''
 hook: ''
 id: d6d8aad2cc5e
-lane: cut
+lane: capability
 pain_signal: ''
-reason: G-Eval/DeepEval rubric building is standard RAG eval work you can already
-  do, so it doesn't unlock a new sellable offer.
+reason: A solid RAG evaluation lecture, but you can already build G-Eval metrics and
+  it doesn't unlock a new billable offer this week.
 score: 3
-scored_at: '2026-08-22T11:17:15.158929Z'
+scored_at: '2026-08-22T11:46:19.746081Z'
 source: youtube
-unlocks: 'Marginal: a formalized eval rubric you could bolt onto a delivery, but nothing
-  you couldn''t build last week.'
+unlocks: ''
 url: https://www.youtube.com/watch?v=nlyxlKD5cvU
 verdict: cut
 ---

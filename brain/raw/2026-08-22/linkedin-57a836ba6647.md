@@ -1,0 +1,46 @@
+---
+author: Cletise Hammonds
+fetched_at: '2026-08-22T11:43:10.188849Z'
+id: 57a836ba6647
+lane: lead
+published: ''
+source: linkedin
+title: 'Pastors, ministry leaders, and church teams… this is your sign.
+
+
+  Your ministry was never meant to run on sticky notes, m'
+url: https://www.linkedin.com/posts/cletisehammonds_legacyconnect-ministrygrowth-churchgrowth-activity-7496888070932332545-asFK
+---
+
+Pastors, ministry leaders, and church teams… this is your sign.
+
+Your ministry was never meant to run on sticky notes, missed texts, forgotten visitor cards, and “I thought somebody followed up with them.”
+
+The harvest is too important for people to fall through the cracks.
+
+That’s why we created the FREE Legacy Connect Masterclass — a powerful training designed to show churches and ministries how to use AI + automation to save time, follow up faster, stay connected with members, organize events, manage prayer requests, and serve people with excellence.
+
+This is not about replacing ministry with technology.
+This is about using technology to help you do ministry better.
+
+Imagine first-time visitors getting followed up with automatically.
+Imagine new members feeling welcomed and connected.
+Imagine prayer requests being organized.
+Imagine your team not having to carry everything manually every single week.
+
+That’s what Legacy Connect was built for.
+
+More time for ministry. Less time on admin. Stronger connections. Greater impact.
+
+You were called to serve, lead, build, and live on purpose — not spend all week chasing spreadsheets and church logins.
+
+Join the FREE Legacy Connect Masterclass and discover how to build a smarter ministry system without overwhelming your team.
+
+To register, comment GROW below and the registration link will be sent to you.
+Or simply fill out the form when the video stops.
+
+Let’s grow your ministry with excellence.
+
+Comment GROW now.
+
+#LegacyConnect #MinistryGrowth #ChurchGrowth #AIForMinistry #ChurchLeadership #MinistryLeaders #Pastors #FaithBasedBusiness #KingdomImpact #LiveOnPurpose

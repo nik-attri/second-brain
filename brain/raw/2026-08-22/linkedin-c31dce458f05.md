@@ -1,0 +1,60 @@
+---
+author: Sergiu Butnaru
+fetched_at: '2026-08-22T11:43:10.190347Z'
+id: c31dce458f05
+lane: lead
+published: ''
+source: linkedin
+title: 'We didn’t build them a complex AI system.
+
+
+  We connected a few tools, and their meetings started writing themselves.
+
+
+  A c'
+url: https://www.linkedin.com/posts/sergiu-butnaru-brevibot_we-didnt-build-them-a-complex-ai-system-activity-7496886570008887296-CTTs
+---
+
+We didn’t build them a complex AI system.
+
+We connected a few tools, and their meetings started writing themselves.
+
+A client wanted to start using more AI in their business.
+
+So we started with something they already do every week: meetings.
+
+Before, every call created more work.
+
+Take notes.
+Remember what was agreed.
+Figure out who needs to do what.
+Write the follow-up.
+Send everything to the people on the call.
+
+Now they just have the meeting.
+
+While they’re talking, the conversation is recorded and summarized. The important points are visible while the meeting is still happening, so if something is missing, they can ask about it right there.
+
+When the call ends, they already have the meeting minutes.
+
+Key decisions.
+
+Action items for each person.
+
+Dates and next steps.
+
+Even the follow-up email is ready to go.
+
+No huge AI transformation.
+
+No complicated system that takes months to build.
+
+Just a few good connections around something they were already doing every day.
+
+I think this is where a lot of businesses are missing the point with AI.
+
+You don’t always need to change how your company works.
+
+Sometimes you just need to remove the work that happens around the work.
+
+What’s one repetitive task after a meeting that you’d happily never do manually again?
