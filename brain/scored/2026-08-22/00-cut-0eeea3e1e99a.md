@@ -8,10 +8,10 @@ hook: ''
 id: 0eeea3e1e99a
 lane: cut
 pain_signal: ''
-reason: Commentary account summarising a Lloyds Bank AI story — enterprise news, no
-  reachable SMB buyer.
+reason: Commentary on a Lloyds Bank AI strategy — industry news about a company far
+  too large for you, from an account with no named human.
 score: 0
-scored_at: '2026-08-22T11:46:19.677661Z'
+scored_at: '2026-08-22T11:50:39.269418Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/aidrivesbiz_return-on-relationships-why-the-future-of-activity-7496881568263720961-1MjY

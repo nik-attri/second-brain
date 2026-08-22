@@ -8,10 +8,10 @@ hook: ''
 id: 5c1cb2235eed
 lane: cut
 pain_signal: ''
-reason: A freelance developer marketing his own scraping builds — peer, not prospect,
-  and the actual client is unnamed.
+reason: Freelancer marketing his own scraping build — peer, and the actual client
+  is anonymous.
 score: 0
-scored_at: '2026-08-22T11:46:19.701715Z'
+scored_at: '2026-08-22T11:50:39.302986Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/muhammadumarfaooq54_laravel-webscraping-dataautomation-activity-7496889067633176577--Mxy

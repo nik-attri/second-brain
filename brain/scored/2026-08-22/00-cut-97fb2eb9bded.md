@@ -8,10 +8,10 @@ hook: ''
 id: 97fb2eb9bded
 lane: cut
 pain_signal: ''
-reason: Steel fabrication hiring post for welders and floor supervisors — no named
-  person, no described workflow.
+reason: Blue-collar and management hiring post with no described manual process and
+  no named contact.
 score: 0
-scored_at: '2026-08-22T11:46:19.719561Z'
+scored_at: '2026-08-22T11:50:39.320468Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/seraj-steel-industries_serajsteel-wearehiring-hiring-activity-7496882067419324416-M-bA

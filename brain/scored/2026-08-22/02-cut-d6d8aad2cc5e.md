@@ -6,12 +6,12 @@ company: ''
 contact_name: ''
 hook: ''
 id: d6d8aad2cc5e
-lane: capability
+lane: cut
 pain_signal: ''
-reason: A solid RAG evaluation lecture, but you can already build G-Eval metrics and
-  it doesn't unlock a new billable offer this week.
-score: 3
-scored_at: '2026-08-22T11:46:19.746081Z'
+reason: RAG evaluation with G-Eval is squarely inside what you already do as an AI
+  engineer; it adds no sellable capability you lacked last week.
+score: 2
+scored_at: '2026-08-22T11:50:39.346982Z'
 source: youtube
 unlocks: ''
 url: https://www.youtube.com/watch?v=nlyxlKD5cvU

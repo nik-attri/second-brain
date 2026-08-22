@@ -8,9 +8,9 @@ hook: ''
 id: 1ca574faf4bd
 lane: cut
 pain_signal: ''
-reason: Bare recruiter job post, no named person and no described workflow.
+reason: A bare hospitality recruiting ad with no person and no process described.
 score: 0
-scored_at: '2026-08-22T11:46:19.684189Z'
+scored_at: '2026-08-22T11:50:39.280010Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/tif-hospitality_hiring-talent-acquisition-manager-hospitality-activity-7496888122224439296-YVY9

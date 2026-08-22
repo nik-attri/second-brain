@@ -8,10 +8,10 @@ hook: ''
 id: 1f6bcf652bad
 lane: cut
 pain_signal: ''
-reason: She already turned her methodology into an automated system and is selling
-  that idea — a competitor, not a prospect.
+reason: She already turned her methodology into an automated system — that makes her
+  a peer, not a buyer.
 score: 0
-scored_at: '2026-08-22T11:46:19.685592Z'
+scored_at: '2026-08-22T11:50:39.282099Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/julia-ricci-usoeva-19bb6711_your-expertise-may-be-scalable-your-hours-activity-7496884219852472320-PufA

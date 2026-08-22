@@ -2,16 +2,16 @@
 author: Adam Nesbitt
 automation_hypothesis: ''
 budget_signal: ''
-company: '1872'
+company: ''
 contact_name: Adam Nesbitt
 hook: ''
 id: d82e5daf20a0
 lane: cut
 pain_signal: ''
-reason: Well-written industry commentary about a funded startup, but Adam is a consultant
-  selling the same thesis — no buyer and no quotable pain from an actual prospect.
-score: 2
-scored_at: '2026-08-22T11:46:19.735699Z'
+reason: Thought-leadership commentary on AI-native manufacturing; he's a consultant
+  describing other companies' problems, not his own.
+score: 0
+scored_at: '2026-08-22T11:50:39.337060Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/adamnesbitt_manufacturing-constructiontechnology-artificialintelligence-activity-7496574345310310401-Eorj

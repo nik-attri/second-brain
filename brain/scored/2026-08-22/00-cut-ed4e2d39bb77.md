@@ -8,10 +8,10 @@ hook: ''
 id: ed4e2d39bb77
 lane: cut
 pain_signal: ''
-reason: Content-marketing post from an outbound SaaS vendor; nothing here you can
-  charge for or sell into.
+reason: Vendor content marketing for a cold-email tool; generic outreach stats you
+  already know and no buyer named.
 score: 0
-scored_at: '2026-08-22T11:17:15.153791Z'
+scored_at: '2026-08-22T11:50:39.341413Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/sendro-ai_sendroai-activity-7496850249311801345-e9pw

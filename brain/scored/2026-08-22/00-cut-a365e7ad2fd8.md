@@ -8,10 +8,10 @@ hook: ''
 id: a365e7ad2fd8
 lane: cut
 pain_signal: ''
-reason: Job seeker showcasing a Google Sheets tracker — she's looking for work, not
-  buying automation.
+reason: A job seeker automating her own spreadsheet demo — no company, no budget,
+  no buying authority.
 score: 0
-scored_at: '2026-08-22T11:46:19.723175Z'
+scored_at: '2026-08-22T11:50:39.323961Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/elizabeth-oyewole-aa6a18269_virtualassistant-dataentry-googlesheets-activity-7496886633611382784-3KSd

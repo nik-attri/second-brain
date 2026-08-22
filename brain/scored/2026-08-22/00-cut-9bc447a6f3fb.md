@@ -8,10 +8,9 @@ hook: ''
 id: 9bc447a6f3fb
 lane: cut
 pain_signal: ''
-reason: Thought-leadership on GenAI product design with no company, no pain, nothing
-  to sell against.
+reason: Generic GenAI product-thinking commentary — no company, no pain, no buyer.
 score: 0
-scored_at: '2026-08-22T11:46:19.720301Z'
+scored_at: '2026-08-22T11:50:39.321172Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/abhijnan-chaturvedi_productmanagement-genai-ai-activity-7496885584049819648-aRxf

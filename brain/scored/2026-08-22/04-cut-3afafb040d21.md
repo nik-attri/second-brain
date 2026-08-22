@@ -1,19 +1,19 @@
 ---
 author: Hamna Ayub
-automation_hypothesis: Automated AR aging analysis and overdue-account chase sequences
-  off their ERP export
-budget_signal: PKR 150,000 gross salary — weak
+automation_hypothesis: Auto-generate receivable aging reports and overdue-account
+  alerts from ERP data instead of manual Excel reconciliation
+budget_signal: PKR 150,000/month salary — Pakistan FMCG, unnamed employer
 company: ''
 contact_name: Hamna Ayub
 hook: ''
 id: 3afafb040d21
 lane: cut
-pain_signal: Analyze receivable aging, identify overdue accounts, and implement effective
-  recovery strategies
-reason: Genuine receivables-reconciliation pain but it's a recruiter post with no
-  named company, and Pakistani FMCG salary bands signal no $5K/month budget.
+pain_signal: Review and reconcile customer accounts while resolving billing and payment
+  discrepancies
+reason: Genuinely repetitive receivables reconciliation work, but there's no company
+  named and no way to verify size or budget from this post.
 score: 4
-scored_at: '2026-08-22T11:46:19.692497Z'
+scored_at: '2026-08-22T11:50:39.292189Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/hamna-ayub-24a54735a_were-hiring-assistant-manager-finance-activity-7496881078432002049-1E0z

@@ -8,10 +8,10 @@ hook: ''
 id: 24335bb2cbff
 lane: cut
 pain_signal: ''
-reason: He sells the exact acquisition-automation service you'd pitch — direct competitor
-  running a DM funnel.
+reason: He sells the exact acquisition-automation service you'd sell — direct competitor,
+  not a client.
 score: 0
-scored_at: '2026-08-22T11:46:19.686385Z'
+scored_at: '2026-08-22T11:50:39.283192Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/abdulwaheed-ai_vortechsforge-executivecoaching-coachingbusiness-activity-7496877917772193792-UvZJ

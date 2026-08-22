@@ -8,10 +8,10 @@ hook: ''
 id: 6d7dae7bb195
 lane: cut
 pain_signal: ''
-reason: Nick sells AI lead reactivation to RV dealerships — he's a direct competitor,
-  not a buyer.
+reason: Nick is already selling AI lead reactivation to RV dealerships — peer/competitor
+  pitch, not a prospect.
 score: 0
-scored_at: '2026-08-22T11:46:19.707835Z'
+scored_at: '2026-08-22T11:50:39.309039Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/nick-walsh-a36189b8_theres-a-fortune-sitting-inside-your-crm-activity-7496877212873216000-Pk4o

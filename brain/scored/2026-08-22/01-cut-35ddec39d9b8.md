@@ -1,17 +1,17 @@
 ---
 author: M. Toufiq Haider CertIOSH®
 automation_hypothesis: ''
-budget_signal: ''
+budget_signal: Single restaurant location, one management hire
 company: Daikan Izakaya
 contact_name: M. Toufiq Haider
 hook: ''
 id: 35ddec39d9b8
 lane: cut
-pain_signal: ''
-reason: Single restaurant hiring a manager — no repetitive-process signal and no retainer
-  budget.
+pain_signal: Supervise inventory management and ordering processes
+reason: Single restaurant hiring a manager — no automatable process described and
+  no retainer budget.
 score: 1
-scored_at: '2026-08-22T11:46:19.691749Z'
+scored_at: '2026-08-22T11:50:39.291155Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/m-toufiq-haider-certiosh%C2%AE-150684227_hiring-restaurant-manager-location-galleria-activity-7496889011723210753-Yq1H

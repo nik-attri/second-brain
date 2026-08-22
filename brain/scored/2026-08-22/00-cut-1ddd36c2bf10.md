@@ -8,9 +8,10 @@ hook: ''
 id: 1ddd36c2bf10
 lane: cut
 pain_signal: ''
-reason: Recycled PwC AI-jobs commentary from a consultancy — pure engagement content.
+reason: Recycled PwC report commentary from a consultancy — pure thought-leadership
+  filler.
 score: 0
-scored_at: '2026-08-22T11:46:19.684856Z'
+scored_at: '2026-08-22T11:50:39.281049Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/penta-consultancy_ai-futureofwork-talent-activity-7496874962134396928--2U-

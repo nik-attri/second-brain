@@ -8,10 +8,10 @@ hook: ''
 id: 7b6541afcc0d
 lane: cut
 pain_signal: ''
-reason: He built the AI agent himself and open-sourced it — a peer engineer, not a
-  buyer.
+reason: He built the automation himself and open-sourced it — a peer showing off,
+  not a buyer.
 score: 0
-scored_at: '2026-08-22T11:46:19.710829Z'
+scored_at: '2026-08-22T11:50:39.312029Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/jinoprince_github-jinoprinxcloudpulse-engineers-activity-7496889178824183808-m_6x

@@ -186,6 +186,10 @@ def write_scored(day, items, results, threshold):
     outdir = os.path.join(ROOT, "brain", "scored", day)
     if not os.path.isdir(outdir):
         os.makedirs(outdir)
+    # Filenames carry the score, so a re-scored item would land in a NEW file and
+    # leave its old verdict behind. Clear the day before rewriting it.
+    for stale in glob.glob(os.path.join(outdir, "*.md")):
+        os.remove(stale)
     kept = []
     for res in results:
         item = by_id.get(res["id"])
