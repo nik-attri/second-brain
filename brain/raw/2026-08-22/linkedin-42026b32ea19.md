@@ -1,0 +1,40 @@
+---
+author: Muhammad Osama A.
+fetched_at: '2026-08-22T11:14:34.743409Z'
+id: 42026b32ea19
+lane: lead
+published: ''
+source: linkedin
+title: 77% of catalog teams are drowning in manual attribute normalization. Portwest
+  cut their timelines from 11 months to 6 mo
+url: https://www.linkedin.com/posts/osamatech786_catalogmanagement-activity-7496853948302237697-EUxa
+---
+
+77% of catalog teams are drowning in manual attribute normalization. Portwest cut their timelines from 11 months to 6 months. The difference: a 4-layer system that pairs AI with a structured workflow.
+
+The real culprit: automation architecture. Collection and effort were never the bottleneck.
+
+Most D2C brands ingest supplier catalogs in CSV, XML, and API feeds with zero schema consistency. A vendor calls it "colour." Another calls it "color." A third calls it "finish_code." Teams spend 40-60% of their week reconciling these into a master schema. That's expensive data janitor work, not operations work.
+
+Portwest faced exactly this at scale. They were managing 100+ product families with distributor-driven requests flooding in every month. After implementing a normalization system, they cut catalog time by 45% and auto-fulfilled 800+ distributor requests per year. EUR 40,000 in annual cost savings followed.
+
+THE 4-LAYER SYSTEM:
+
+• Ingest. Pull supplier catalogs from any source: CSV feeds, XML exports, API payloads. The layer must handle varied schemas without demanding vendor cooperation.
+
+• Normalize. Map every supplier attribute to your master schema. Portwest collapsed 100+ product families into 30 because the attribute logic forced consolidation. Proof rounds dropped from 17-18 to 3.
+
+• Enrich. Add classifications and completeness scores. Assa Abloy migrated tens of thousands of assets through this layer and saw a 27% page view increase and a 16% abandonment reduction.
+
+• Distribute. Push channel-specific outputs to Shopify, Amazon, and distributor portals. Portwest auto-fulfilled 800+ requests through this layer.
+
+The entire system runs on a PIM workflow. The intelligence layer sits on top for enrichment decisions.
+
+Save this 4-layer system. You will reference it again.
+
+Here is my question for you: What is your current catalog ops bottleneck: ingestion chaos, normalization overhead, or channel distribution friction? Rough answers welcome.
+
+If you want the 4-layer architecture mapped to your specific stack, drop AUTOMATE in my DMs.
+
+
+#AIAutomation #CatalogManagement #D2CBrands #ProductData

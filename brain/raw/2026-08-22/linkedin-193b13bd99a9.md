@@ -1,0 +1,42 @@
+---
+author: Raj Gunda
+fetched_at: '2026-08-22T11:14:34.730817Z'
+id: 193b13bd99a9
+lane: lead
+published: ''
+source: linkedin
+title: '🚀 Hiring: AI Engineer Intern (Remote | Entry-Level)
+
+  We’re looking for motivated students, freshers, and aspiring AI prof'
+url: https://www.linkedin.com/posts/raj-gunda-938302287_raj-gunda-rajfounder-on-x-activity-7496880058209386496--OSf
+---
+
+🚀 Hiring: AI Engineer Intern (Remote | Entry-Level)
+We’re looking for motivated students, freshers, and aspiring AI professionals who want hands-on experience building AI-powered applications, machine learning solutions, and intelligent features.
+🔹 Responsibilities:
+• Assist in developing and integrating AI/ML solutions
+• Work with Python and machine learning libraries
+• Assist with data preparation, preprocessing, and analysis
+• Experiment with AI models and evaluate their performance
+• Work with LLMs, prompt engineering, and AI APIs
+• Collaborate with Product, Engineering, and Data teams
+• Research emerging AI technologies and identify practical use cases
+🔹 Who Can Apply:
+• Students or freshers interested in AI, ML, or Generative AI
+• Basic knowledge of Python
+• Understanding of machine learning fundamentals
+• Familiarity with APIs and data processing is a plus
+• Knowledge of LLMs, prompt engineering, or RAG is a plus
+• Strong analytical and problem-solving skills
+• Willingness to learn and experiment with new technologies
+🔹 Internship Details:
+• Work Mode: Remote
+• Type: Internship / Entry-Level
+
+📩 Interested in applying?
+👉 DM us on X with “AI ENGINEER INTERN” to apply.
+⚠️ Applications will be accepted only through X DMs.
+📢 Team, please follow our X account:
+👉 https://lnkd.in/e_84Q2su
+We’ll be sharing job opportunities, internship openings, company updates, and other important announcements through our X account.
+#AIEngineer #AIIntern #MachineLearning #GenerativeAI #ArtificialIntelligence #Python #LLM #RemoteInternship #FreshersWelcome #Hiring #StartupJobs

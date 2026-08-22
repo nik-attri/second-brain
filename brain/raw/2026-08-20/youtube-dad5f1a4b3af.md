@@ -1,0 +1,63 @@
+---
+author: '@nicksaraev'
+fetched_at: '2026-08-20T20:09:09.720813Z'
+id: dad5f1a4b3af
+lane: capability
+published: '2026-07-04T13:15:02+00:00'
+source: youtube
+title: I spent $1,486 on Fable tokens so you don't have to
+url: https://www.youtube.com/watch?v=aif87UYCxOo
+---
+
+🔥 Join Maker School & get customer #1 guaranteed: https://skool.com/makerschool/about
+💎 Get all resources 100% free: https://skool.com/maker-zero/about
+➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth consultancy. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.
+
+In plain English: I help people build systems that generate leads, close deals, and scale businesses, mostly using new AI models like Claude. I also make videos about how to do all of that here on YouTube.
+
+It hasn't always been this way. My family immigrated from a Soviet bloc country (People's Republic of Bulgaria) in the 90s. They worked extremely hard, and we were broke for a very long time. I grew up wishing for more security, stability, and freedom over my own life.
+
+I don't have a programming degree, and never took formal education for IT or workflows. I learned it all myself from YouTube videos like you're watching now.
+
+As for my path: I started my first business at 19 in college. We threw events (mostly parties) at campus bars, and charged people for entry. 
+
+That failed to provide me enough money to pay my bills, so at 21, I started another business, a door-to-door marketing agency.
+
+From there, every year, I would start several companies, over 10 in total. I did this in a variety of industries, like e-commerce, photography, videography, SaaS, credit repair, etc. Each grew slightly more profitable, until, at 25, I would start 1SecondCopy, a content writing company. A friend and I eventually scaled that to over $90,000/m. It was my first taste of financial independence, and the reason I'm here today.
+
+Since starting my journey, I've grown a fair bit of capital. To diversify my income, at 30, I began investing in other businesses and advising companies on how to grow in the AI era. These include SaaS businesses, like Clairvo, agencies like Dental Connect, and more. 
+
+Collectively, the businesses that I own outright or are a part of generate over $10 million per year. This returns far more than the 5-10% you would get in the stock market, but also requires a lot of my active time. There's a tradeoff there, but I greatly prefer active investing, where I have control over the entities I'm a part of.
+
+It wasn't easy to get here. But I did in the end! For anyone on their own entrepreneurial journey: I wish you luck, happiness, and perseverance. You can make it!
+
+--
+
+Other platforms I'm on ⤵️
+📸 Instagram: https://www.instagram.com/nick_saraev
+🕊️ Twitter/X: https://twitter.com/nicksaraev
+✍🏻 Blog: https://nicksaraev.com
+
+My free multi-hour courses ⤵️
+→ Claude Code (4hr full course): https://www.youtube.com/watch?v=QoQBzR1NIqI
+→ Agentic Workflows (6hr full course): https://www.youtube.com/watch?v=MxyRjL7NG18
+→ N8N (6hr full course, 1M+ views): https://www.youtube.com/watch?v=2GZ2SNXWK-c
+
+--
+
+Summary ⤵️
+
+In this video, I show you how to significantly improve your usage of Fable and other Claude-based models through optimizations like RTK (Rust Token Killer), post-use hooks, SQLite and more.
+
+--
+
+Chapters ⤵️
+00:00:00 Introduction and testing Fable’s token usage
+00:01:10 RTK for reducing tool-call tokens
+00:04:05 Semantic compression for system prompts and memory files
+00:07:05 Logs to SQLite for querying large log files
+00:09:20 Blocking huge reads with targeted search
+00:11:15 Prompting in English and token differences across languages
+00:12:40 Adding context frugality rules to the system prompt
+00:15:00 Periodically checking context for hidden token usage
+00:17:10 Capping thinking budgets and comparing low versus high effort

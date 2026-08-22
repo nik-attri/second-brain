@@ -1,0 +1,40 @@
+---
+author: Nicole Damiano, VTA, CTA
+fetched_at: '2026-08-22T11:14:34.757360Z'
+id: 7a8f5f5fc968
+lane: lead
+published: ''
+source: linkedin
+title: 'I asked AI what it would warn someone about me before they met me.
+
+
+  I was expecting my resume. This is what came back.'
+url: https://www.linkedin.com/posts/nicoledamiano_familytravel-traveladvisor-ai-activity-7496562995284787200-jWkb
+---
+
+I asked AI what it would warn someone about me before they met me.
+
+I was expecting my resume. This is what came back.
+
+"Nicole feels things all the way. There isn't much middle ground with her. She loves hard. She worries hard. She gets excited hard. She gets disappointed hard. She can be completely overwhelmed by something at 10:00 and wildly enthusiastic about a new idea at 10:17. You're going to have to keep up.
+She's curious to an almost ridiculous degree. She doesn't just want to see the world. She wants to experience the hell out of it. She wants to know what people eat there, how they live, why that building is there, what happened 400 years ago, where that little road goes, and what would happen if you just kept driving. And she'll probably want to keep driving.
+
+She's not particularly interested in a life that looks impressive from the outside. She's interested in a life that feels big from the inside.
+She's adventurous but anxious. Independent but deeply attached. Strong but sensitive. Restless but incredibly family-centered. She wants freedom, but she also wants her people with her.
+
+She seems to understand something a lot of people don't figure out until much later. This is it. The kids are only this age once. Your parents won't always be here. Your body won't always be able to climb the mountain. There isn't some future version of life when everyone magically has more time.
+
+So the warning is: don't tell her someday unless you're prepared for her to start looking at flights."
+
+I read that and sat with it for a while, because it is uncomfortably accurate.
+The part I keep thinking about is "impressive from the outside" versus "big from the inside." I did not know I had a philosophy until something else described it back to me in one sentence.
+
+We sold our house last year. Five of us and the dog, a year based in Europe. On paper that reads as brave. In practice it was mostly a spreadsheet, a lot of second-guessing, and me lying awake wondering if I had just done something enormous and stupid.
+
+Both things are true. That is sort of the point.
+
+If you are sitting on a someday right now, the thing in the way is almost never money or time. It is waiting for the version of your life where it would be convenient. That version does not arrive.
+
+What would AI warn people about you?
+
+#FamilyTravel #TravelAdvisor #AI #WorkingParents

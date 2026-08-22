@@ -1,0 +1,27 @@
+---
+author: Timothy Anthony
+fetched_at: '2026-08-22T11:14:34.741988Z'
+id: 6b7d72a98f90
+lane: lead
+published: ''
+source: linkedin
+title: Most Shopify stores lose 60-70% of carts and spend hours a week on manual order/inventory
+  admin — both fixable with auto
+url: https://www.linkedin.com/posts/timothy-anthony-09b6b4338_most-shopify-stores-lose-60-70-of-carts-activity-7496878127873384448-TD1m
+---
+
+Most Shopify stores lose 60-70% of carts and spend hours a week on manual order/inventory admin — both fixable with automation.
+
+I'm Timothy, an AI automation engineer (n8n, Make, Zapier). Over the past year I've built a 7-workflow automation suite for Shopify stores covering the full customer lifecycle:
+
+→ Abandoned cart recovery (tiered by customer value)
+→ Post-purchase email sequences + review requests
+→ Real-time inventory sync + low-stock/reorder alerts
+→ AI customer support agent + 90-day win-back flow
+→ AI-generated product descriptions on new listings
+→ Automated competitor price monitoring
+→ Full order-processing engine (inventory, invoicing, fulfillment queue)
+
+All self-built, documented, and demoed live — link in my profile if you want to see how any of these work under the hood.
+
+If you're a store owner or agency drowning in manual Shopify admin, happy to talk through what's automatable. Always glad to swap notes with other Shopify folks here too!

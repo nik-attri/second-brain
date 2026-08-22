@@ -1,0 +1,34 @@
+---
+author: '@campusx-official'
+fetched_at: '2026-08-20T20:09:09.741332Z'
+id: 3a583a4a1711
+lane: capability
+published: '2026-06-19T13:30:32+00:00'
+source: youtube
+title: Introduction to LLM Evaluations – Model Evals vs Application Evals | CampusX
+url: https://www.youtube.com/watch?v=cNF_MO82Qew
+---
+
+This lecture explains what LLM Evaluations (LLM Evals) are, why they are different from traditional software testing, and how they help measure the quality of LLMs and LLM-powered applications. The session introduces the concepts of systematic evaluation, evaluation criteria, model evaluations, application evaluations, benchmarks, and the role of AI engineers in evaluating real-world AI systems.
+
+This lecture was taken live for insiders, join here: https://youtu.be/j_G30FLmCcw
+
+📱 Grow with us:
+CampusX' LinkedIn: https://www.linkedin.com/company/campusx-official
+CampusX on Instagram for daily tips: https://www.instagram.com/campusx.official
+My LinkedIn: https://www.linkedin.com/in/nitish-singh-03412789
+Discord: https://discord.gg/PsWu8R87Z8 (@suf for queries)
+E-mail us at support@campusx.in
+
+Chapters
+
+00:00 - What are LLM Evaluations?
+05:34 - LLM Evals vs Metrics
+08:37 - Types of LLM Evaluations
+10:33 - Understanding Model Evaluations
+15:14 - How AI Engineers Use Model Benchmarks
+17:46 - Introduction to Application Evaluations
+20:02 - Smartphone Analogy: Models vs Applications
+21:45 - What Should We Evaluate in AI Applications?
+23:30 - Model Evals vs Application Evals: Recap
+24:02 - What’s Coming Next? Application Evaluation Frameworks

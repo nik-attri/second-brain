@@ -1,0 +1,81 @@
+---
+author: Victor Ugochukwu
+fetched_at: '2026-08-22T11:14:34.746420Z'
+id: 9bebe6592e73
+lane: lead
+published: ''
+source: linkedin
+title: I read Emilia Korczynska’s piece on why nobody cares about your MCP server,
+  and it put language to something I’ve felt r
+url: https://www.linkedin.com/posts/victor-ugochukwu_i-read-emilia-korczynskas-piece-on-why-nobody-activity-7496880961301741568-c4qU
+---
+
+I read Emilia Korczynska’s piece on why nobody cares about your MCP server, and it put language to something I’ve felt recently with some of the AI tools I use.
+
+A product ships something useful.
+
+You can actually tell some real work went into it.
+
+But as a user, you’re still left doing a small archaeology exercise.
+
+Where does this new thing fit?
+
+When should I use it?
+
+What old step is it supposed to replace?
+
+Is this for my daily workflow, or is it just another “cool” capability sitting somewhere in the product?
+
+That gap is easy to underestimate from inside the company.
+
+Internally, the launch makes sense because everyone knows the roadmap, the customer asks, the technical tradeoffs, and the product logic.
+
+Externally, the user is just trying to get through the work in front of them.
+
+They don’t have the internal context.
+
+They don’t even know the feature exists.
+
+And even when they do, they may not know the moment it was built for.
+
+That’s where AI launches get tricky.
+
+A lot of the new value is not sitting clearly inside the interface anymore.
+
+It may live behind a prompt, an agent, a workflow, an API, an MCP server, or a connection between tools.
+
+So the launch can’t stop at “here’s what we shipped.”
+
+It has to answer:
+
+Where does this show up in the user’s day?
+
+What painful step now changes?
+
+What should they stop doing manually?
+
+What should they trust the product to handle?
+
+Where will they be reminded at the exact moment the pain appears?
+
+That last question has been sitting with me.
+
+Because discovery used to be partly carried by the UI.
+
+Now, for a lot of AI-native or headless capabilities, discovery has to be designed much more deliberately.
+
+Not once.
+
+Repeatedly.
+
+Across onboarding, docs, lifecycle emails, in-app nudges, templates, sales conversations, CS playbooks, and community examples.
+
+The more invisible the capability, the more intentional the launch has to be.
+
+Otherwise, a team can ship something genuinely valuable and still watch users behave as if nothing changed.
+
+Which is a shame.
+
+Because sometimes the product did change.
+
+The market just never got a clear enough reason to notice.

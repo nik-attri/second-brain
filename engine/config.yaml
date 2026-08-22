@@ -1,0 +1,71 @@
+# ─────────────────────────────────────────────────────────────
+# SOURCE CONFIG — this is the file you edit. No code required.
+# Lanes: lead = pipeline (people who might pay me)
+#        capability = how to build/price/sell the work
+# ─────────────────────────────────────────────────────────────
+
+settings:
+  lookback_days: 7          # ignore anything older
+  min_chars: 120            # deterministic pre-filter: skip stubs
+  batch_size: 12            # items per LLM call
+  effort: medium            # low | medium | high | xhigh | max (Anthropic only)
+  provider: auto            # auto = Anthropic, fall back to Gemini if credit/key/rate fails
+                            # force one with: anthropic | gemini
+  gemini_model: gemini-3.6-flash
+  keep_threshold: 6         # score >= this survives into synthesis
+
+# ── LANE 1: LEADS ────────────────────────────────────────────
+# Same platform you already use, different query.
+# Hiring for manual work IS the buying signal.
+linkedin_lead_search:
+  enabled: true
+  actor: "harvestapi/linkedin-post-search"
+  queries:
+    - "drowning in manual"
+    - "spreadsheet hell"
+    - "we do this manually"
+    - "hiring an operations manager"
+    - "hiring a data entry"
+    - "automate our workflow"
+  max_results_per_query: 10
+
+instagram_lead:
+  enabled: false            # off by default: weak for $5K/mo B2B retainers
+  actor: "apify/instagram-scraper"
+  hashtags: ["agencyowner", "ecommbusiness", "smallbusinessowner"]
+  max_results: 30
+
+# ── LANE 2: CAPABILITY ───────────────────────────────────────
+youtube:
+  enabled: true
+  handles:                  # resolved to channel ids automatically
+    - "@nicksaraev"         # runs this exact business model
+    - "@lennyspodcast"
+    - "@campusx-official"
+    - "@krishnaik06"
+
+instagram_capability:
+  enabled: false            # apify/instagram-scraper needs a paid Apify plan (402 on free)
+  actor: "apify/instagram-scraper"
+  usernames: ["varunmayya", "100xengineers", "nicksaraev"]
+  max_results: 20
+
+linkedin_capability:
+  enabled: true
+  actor: "harvestapi/linkedin-post-search"
+  profiles: ["charliehills"]
+  max_results: 20
+
+x_capability:
+  enabled: false            # CUT — see 01-sources.md
+  actor: ""
+  handles: []
+
+# ── CUT (kept here as a record, never fetched) ───────────────
+cut:
+  - source: "arXiv / research papers"
+    reason: "No company names, no contacts, no budgets. Interest without pipeline."
+    date: "2026-08-21"
+  - source: "Sundar Pichai, Nvidia, Google, DeepMind, ChatGPT, Claude, Dario Amodei, Sam Altman"
+    reason: "Frontier-lab announcements change nothing about whether an SMB signs a $5K retainer. Anything sellable reaches me via practitioners within a week, pre-translated into something I can charge for."
+    date: "2026-08-21"

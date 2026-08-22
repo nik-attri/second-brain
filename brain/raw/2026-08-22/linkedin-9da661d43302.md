@@ -1,0 +1,66 @@
+---
+author: Pasumarthi Indrani
+fetched_at: '2026-08-22T11:14:34.765007Z'
+id: 9da661d43302
+lane: lead
+published: ''
+source: linkedin
+title: '🚨 WE ARE HIRING! 🚨
+
+
+  🏢 WiSHUP – Grow Together
+
+
+  💼 Position: Online Business Manager / Virtual Assistant
+
+  🏠 Work From Home |'
+url: https://www.linkedin.com/posts/pasumarthi-indrani-35532939a_hiring-workfromhome-wfhjobs-activity-7496881634735095808-sZw1
+---
+
+🚨 WE ARE HIRING! 🚨
+
+🏢 WiSHUP – Grow Together
+
+💼 Position: Online Business Manager / Virtual Assistant
+🏠 Work From Home | Remote
+
+💰 Salary: ₹6 LPA – ₹12 LPA
+📌 Depends on your last take-home / Cost to Company
+
+⏰ Flexible Shifts: US Timings / Indian Timings
+📅 Monday to Friday
+
+🎯 Eligibility
+
+✅ Minimum 2 years of full-time work experience
+✅ Stable career track with minimal career gaps
+✅ Excellent written & spoken English
+✅ Excellent communication skills
+✅ Strong mathematical & logical aptitude
+✅ Experience handling & resolving work-related conflicts
+
+💼 Key Responsibilities
+
+• Manage calendars, inboxes & travel itineraries
+• Handle project coordination & client operations
+• Prepare MIS reports & maintain databases
+• Manage CRM, leads & online research
+• Support Amazon & Shopify e-commerce activities
+
+💻 WFH Requirements
+
+📶 Reliable internet – minimum 70 Mbps
+💻 Windows laptop with 8 GB RAM
+📷 Working camera
+⚙️ Intel i5 8th Gen or above
+
+🌟 Excellent communication skills are a MUST!
+
+📩 Interested candidates can apply now.
+
+charges applicable
+9491377875
+
+https://lnkd.in/gSTjE3Yd
+
+#Hiring #WorkFromHome #WFHJobs #RemoteJobs #VirtualAssistant #BusinessManager #OnlineJobs #JobOpening #CareerOpportunity #HiringAlert #IndiaJobs #WorkFromAnywhere
