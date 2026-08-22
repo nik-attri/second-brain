@@ -2,17 +2,16 @@
 author: Akshita Jhagrawat
 automation_hypothesis: ''
 budget_signal: ''
-company: ConverseJob (staffing agency)
+company: ConverseJob (staffing)
 contact_name: Akshita Jhagrawat
 hook: ''
 id: a7fb7e6e430d
 lane: cut
 pain_signal: ''
-reason: This is a staffing agency recruiter filling Power Platform dev roles for a
-  client — no named end-buyer, no described business pain, and agency margins won't
-  fund a $5K retainer.
+reason: This is a staffing agency advertising Power Platform developer roles — no
+  named client, no described process pain, and recruiters don't buy automation retainers.
 score: 2
-scored_at: '2026-08-22T11:50:39.324666Z'
+scored_at: '2026-08-22T12:23:48.830165Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/akshita-jhagrawat-6b5275274_hiring-powerplatform-microsoftpowerplatform-activity-7496886657070215168-pIUv

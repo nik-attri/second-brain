@@ -38,6 +38,10 @@ instagram_lead:
 # ── LANE 2: CAPABILITY ───────────────────────────────────────
 youtube:
   enabled: true
+  use_transcripts: true     # spoken content, not the bio-boilerplate description
+  transcript_chars: 6000    # cap; scoring reads the first 4000 of it
+  max_new_transcripts: 8    # YouTube IP-bans bulk callers; backfill slowly
+  transcript_delay_sec: 2   # cached permanently, so each video costs one fetch ever
   handles:                  # resolved to channel ids automatically
     - "@nicksaraev"         # runs this exact business model
     - "@lennyspodcast"

@@ -8,10 +8,9 @@ hook: ''
 id: a365e7ad2fd8
 lane: cut
 pain_signal: ''
-reason: A job seeker automating her own spreadsheet demo — no company, no budget,
-  no buying authority.
+reason: An individual job seeker looking for data entry work — no company and no budget.
 score: 0
-scored_at: '2026-08-22T11:50:39.323961Z'
+scored_at: '2026-08-22T12:23:48.829457Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/elizabeth-oyewole-aa6a18269_virtualassistant-dataentry-googlesheets-activity-7496886633611382784-3KSd

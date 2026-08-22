@@ -1,17 +1,18 @@
 ---
 author: Sagar Kumar
 automation_hypothesis: ''
-budget_signal: Hiring 2 HR roles, but employer is unnamed
-company: ''
+budget_signal: Hiring 2 HR roles, 6-15 yrs experience — real budget, but the buyer
+  is invisible
+company: Unnamed financial services company (via recruiter Sagar Kumar)
 contact_name: Sagar Kumar
 hook: ''
 id: 6a0789eab5dc
 lane: cut
 pain_signal: ''
-reason: Anonymous recruiter post for an unnamed financial services company — no named
-  decision-maker and no company to target.
+reason: This is a recruiter's job ad for an HR role at an unnamed financial services
+  company — no named hiring decision-maker and no process you can quote as broken.
 score: 2
-scored_at: '2026-08-22T11:50:39.306768Z'
+scored_at: '2026-08-22T12:23:48.809998Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/sagar-kumar-85510142_hrbp-performancemanagement-pms-activity-7496882016919973889-2eVc

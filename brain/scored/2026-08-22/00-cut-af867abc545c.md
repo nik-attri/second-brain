@@ -8,10 +8,10 @@ hook: ''
 id: af867abc545c
 lane: cut
 pain_signal: ''
-reason: Anonymous job-board repost for a care-service manager role — no decision-maker,
-  no workflow pain.
+reason: Job-board repost for a care-service manager role; no named decision-maker
+  and no manual workflow described.
 score: 0
-scored_at: '2026-08-22T11:50:39.326875Z'
+scored_at: '2026-08-22T12:23:48.832388Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/bradford-jobs-yorkshire_httpsjobsrminecomjobgbregistered-manager-activity-7496888839119052800-c4_w

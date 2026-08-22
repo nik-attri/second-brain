@@ -8,10 +8,10 @@ hook: ''
 id: d207ad9f4a3e
 lane: cut
 pain_signal: ''
-reason: A job-seeker post from a nonprofit fundraiser leaving her role — no buyer,
+reason: Job-seeker post from an individual leaving a nonprofit; no company pain and
   no budget.
 score: 0
-scored_at: '2026-08-22T11:50:39.335526Z'
+scored_at: '2026-08-22T12:23:48.841190Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/sara-strange-963137184_after-la-commons-upcoming-gala-in-october-activity-7496585975612129281-qWBt

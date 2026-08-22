@@ -161,7 +161,7 @@ def score_batch(client, criteria, batch, cfg):
         "lane_hint": i.get("lane", ""),
         "author": i.get("author", ""),
         "url": i.get("url", ""),
-        "text": i.get("text", "")[:2500],
+        "text": i.get("text", "")[:4000],
     } for i in batch]
 
     provider = cfg.get("provider", "auto")

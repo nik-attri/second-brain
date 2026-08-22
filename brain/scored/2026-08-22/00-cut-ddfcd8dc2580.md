@@ -8,10 +8,10 @@ hook: ''
 id: ddfcd8dc2580
 lane: cut
 pain_signal: ''
-reason: A ServiceNow consultancy marketing agentic AI — direct competitor content
-  with nothing you can't already build.
+reason: Vendor/training-provider content marketing about ServiceNow agentic AI — a
+  competitor selling the same story.
 score: 0
-scored_at: '2026-08-22T11:50:39.338489Z'
+scored_at: '2026-08-22T12:23:48.844036Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/raj-cloud-technologies-b186b8211_from-servicenow-itsm-to-servicenow-agentic-activity-7496883626337382400-_LBc

@@ -8,10 +8,9 @@ hook: ''
 id: ed4e2d39bb77
 lane: cut
 pain_signal: ''
-reason: Vendor content marketing for a cold-email tool; generic outreach stats you
-  already know and no buyer named.
+reason: Cold-email SaaS vendor content marketing; no named person, no buyable pain.
 score: 0
-scored_at: '2026-08-22T11:50:39.341413Z'
+scored_at: '2026-08-22T12:23:48.847048Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/sendro-ai_sendroai-activity-7496850249311801345-e9pw

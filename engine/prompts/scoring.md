@@ -91,12 +91,51 @@ General AI/ML learning content scores ≤ 3. He is not short on ability. He is s
 
 ---
 
-## ⚠️ EDIT THIS SECTION YOURSELF
+## My judgment (written by hand, 2026-08-22)
 
-The brief is explicit: a generated filter filters someone else's life. These are the lines
-only you can write. Replace them, then delete this warning.
+These override the generic guidance above wherever they conflict.
 
-- Industries I will NOT take as clients (and why): ___
-- The automation I am fastest at building, that should score higher: ___
-- A lead I would drop everything for looks like: ___
-- Something the engine kept last week that I would have cut by hand: ___
+### No industry is excluded
+
+I will take any sector. Do not disqualify a lead for being healthcare, fintech, crypto,
+gambling, defence, or anything else. Sector is not a signal here — the shape of the
+manual work is. If the process is repetitive and the company can pay, it qualifies.
+
+### What I build fastest — score these higher
+
+I ship these in days, not weeks, and can quote them same-day:
+
+1. **RAG over a company's own documents** — contracts, SOPs, product docs, past tickets.
+2. **Chatbots grounded in internal knowledge** — support, onboarding, internal helpdesk.
+3. **Generative image and content production** — catalogue images, marketing copy, listings.
+
+A lead whose `automation_hypothesis` lands in one of these is worth **+2 points** over an
+equivalent lead needing bespoke ERP or CRM integration work. When a pain signal could be
+solved either way, write the hypothesis as the version I can build fastest.
+
+Conversely: deep custom integrations into legacy on-prem systems are slow and risky for a
+solo operator. Real, but cap them at 7 unless the budget signal is unusually strong.
+
+### The lead I would drop everything for
+
+Not a single broken task — **a company whose entire chain is manual**:
+
+> lead generation → understanding the requirement → producing the solution → invoicing
+
+One person copy-pasting enquiries into a spreadsheet, writing quotes by hand, building the
+deliverable from scratch each time, then raising invoices manually. That is one client who
+can be automated end to end, expanded stage by stage, and retained for years — which is how
+3 clients reach $5K/month rather than 30 clients at $500.
+
+**So: count the manual stages.** Score by how much of that chain is visibly broken.
+
+| Manual stages visible in the item | Score |
+|---|---|
+| Three or more stages | 9–10 — surface immediately |
+| Two stages | 8 |
+| One stage, specific and quoted | 6–7 |
+| One stage, vague | ≤ 4 |
+
+When you find a multi-stage lead, say **which stages** are broken in `reason`, and write
+`automation_hypothesis` for the *first* stage only — the wedge, not the whole platform.
+The rest is expansion revenue, not the pitch.

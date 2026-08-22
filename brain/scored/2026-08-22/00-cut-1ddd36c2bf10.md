@@ -8,10 +8,10 @@ hook: ''
 id: 1ddd36c2bf10
 lane: cut
 pain_signal: ''
-reason: Recycled PwC report commentary from a consultancy — pure thought-leadership
-  filler.
+reason: Recruitment-firm thought-leadership post recycling a PwC report — no buyer,
+  no workflow.
 score: 0
-scored_at: '2026-08-22T11:50:39.281049Z'
+scored_at: '2026-08-22T12:23:48.781383Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/penta-consultancy_ai-futureofwork-talent-activity-7496874962134396928--2U-

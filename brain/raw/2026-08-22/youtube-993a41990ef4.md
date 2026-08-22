@@ -1,0 +1,12 @@
+---
+author: '@lennyspodcast'
+fetched_at: '2026-08-22T12:15:16.118193Z'
+id: 993a41990ef4
+lane: capability
+published: '2026-08-19T14:00:11+00:00'
+source: youtube
+title: '"Nobody should feel behind right now"'
+url: https://www.youtube.com/shorts/5FMPkR8paP4
+---
+
+The good news for anybody who is trying to design or get into design is like we're all figuring this out as we go. Nobody has some perfect answer about how the design process should work. Whatever you think is working today will probably change again. And so, I think what's encouraging about this is that nobody should feel behind right now. I think that if you literally started today, you're going to have a leg up on pretty much most people. There's just so much opportunity to change the way we work to make great things. I've been at Open AI for 3 years and I think about the stuff that we were working on when I first joined, I remember getting a demo of our early voice mode that we hadn't shipped. And now it's like become part of the process of how we design. So, the point is it's changing very quickly. We're all extremely early in this process and nobody really has it figured out.

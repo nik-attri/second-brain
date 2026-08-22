@@ -8,10 +8,10 @@ hook: ''
 id: 1f6bcf652bad
 lane: cut
 pain_signal: ''
-reason: She already turned her methodology into an automated system — that makes her
-  a peer, not a buyer.
+reason: She has already productised her own methodology into an automated system and
+  is now marketing that idea — a peer, not a client.
 score: 0
-scored_at: '2026-08-22T11:50:39.282099Z'
+scored_at: '2026-08-22T12:23:48.782577Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/julia-ricci-usoeva-19bb6711_your-expertise-may-be-scalable-your-hours-activity-7496884219852472320-PufA

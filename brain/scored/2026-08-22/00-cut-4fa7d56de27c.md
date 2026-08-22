@@ -8,10 +8,10 @@ hook: ''
 id: 4fa7d56de27c
 lane: cut
 pain_signal: ''
-reason: This is a competitor posting his own case study — he sells the exact service
-  you sell, so he'll never buy.
+reason: This is a competing automation consultant marketing his own case study — a
+  peer, not a prospect.
 score: 0
-scored_at: '2026-08-22T11:50:39.298131Z'
+scored_at: '2026-08-22T12:23:48.799900Z'
 source: linkedin
 unlocks: ''
 url: https://www.linkedin.com/posts/solomon-archibong-a3223976_heres-what-happened-when-we-automated-client-activity-7496884246758969344-rCxn

@@ -8,14 +8,22 @@ import json
 import os
 import re
 import sys
+import time
 from datetime import datetime, timedelta
 
 import feedparser
 import requests
 import yaml
 
+try:
+    from youtube_transcript_api import YouTubeTranscriptApi
+except ImportError:
+    YouTubeTranscriptApi = None
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STATE = os.path.join(ROOT, "engine", "state", "seen.json")
+TCACHE = os.path.join(ROOT, "engine", "state", "transcripts")
+_BLOCKED = [False]      # once YouTube blocks us, stop asking for the rest of the run
 APIFY = "https://api.apify.com/v2/acts/{actor}/run-sync-get-dataset-items"
 
 
@@ -73,8 +81,51 @@ def resolve_channel_id(handle):
         return None
 
 
+def fetch_transcript(video_id, cap, budget, delay):
+    """Spoken content beats the description — Saraev's blurbs are bio boilerplate,
+    which is why the first run scored every video 4 or below.
+
+    YouTube IP-bans bulk callers and blocks cloud IPs outright, so this is
+    deliberately slow and permanently cached: each video is fetched at most once
+    ever, only a few new ones per run, and any block ends transcript fetching for
+    the rest of the run. The corpus backfills over several days instead of in one
+    burst that gets us banned."""
+    if not YouTubeTranscriptApi:
+        return ""
+    if not os.path.isdir(TCACHE):
+        os.makedirs(TCACHE)
+    cached = os.path.join(TCACHE, video_id + ".txt")
+    if os.path.exists(cached):
+        with open(cached) as fh:
+            return fh.read()[:cap]
+    if _BLOCKED[0] or budget[0] <= 0:
+        return ""
+
+    budget[0] -= 1
+    time.sleep(delay)
+    try:
+        listing = YouTubeTranscriptApi().list(video_id)
+        try:
+            track = listing.find_transcript(["en", "en-US", "en-GB"])
+        except Exception:
+            track = next(iter(listing))   # Hindi auto-captions beat a bio blurb
+        text = " ".join(s.text for s in track.fetch())
+        with open(cached, "w") as fh:
+            fh.write(text)
+        return text[:cap]
+    except Exception as err:
+        if "IpBlocked" in type(err).__name__ or "blocking requests" in str(err):
+            _BLOCKED[0] = True
+            print("  ! YouTube IP-blocked; falling back to descriptions this run")
+        return ""
+
+
 def fetch_youtube(cfg):
     items = []
+    want_transcripts = cfg.get("use_transcripts", True)
+    cap = cfg.get("transcript_chars", 6000)
+    budget = [cfg.get("max_new_transcripts", 8)]
+    delay = cfg.get("transcript_delay_sec", 2)
     for handle in cfg.get("handles", []):
         chan = resolve_channel_id(handle)
         if not chan:
@@ -83,15 +134,22 @@ def fetch_youtube(cfg):
         feed = feedparser.parse(
             "https://www.youtube.com/feeds/videos.xml?channel_id=" + chan
         )
+        got = 0
         for entry in feed.entries:
-            summary = ""
-            if hasattr(entry, "summary"):
-                summary = entry.summary
+            summary = entry.summary if hasattr(entry, "summary") else ""
+            text = ""
+            if want_transcripts and entry.get("yt_videoid"):
+                text = fetch_transcript(entry["yt_videoid"], cap, budget, delay)
+                if text:
+                    got += 1
             items.append(make_item(
                 "youtube", "capability", entry.get("link"), entry.get("title"),
-                handle, entry.get("published", ""), summary,
+                handle, entry.get("published", ""), text or summary,
             ))
-        print("  youtube %s -> %d" % (handle, len(feed.entries)))
+        print("  youtube %s -> %d (%d with transcript)"
+              % (handle, len(feed.entries), got))
+    print("  transcript cache: %d videos, %d new fetches left"
+          % (len(os.listdir(TCACHE)) if os.path.isdir(TCACHE) else 0, budget[0]))
     return items
 
 

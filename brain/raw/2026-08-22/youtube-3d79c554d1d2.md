@@ -1,6 +1,6 @@
 ---
 author: '@lennyspodcast'
-fetched_at: '2026-08-22T11:14:34.728722Z'
+fetched_at: '2026-08-22T12:18:50.759708Z'
 id: 3d79c554d1d2
 lane: capability
 published: '2026-08-20T22:30:21+00:00'
