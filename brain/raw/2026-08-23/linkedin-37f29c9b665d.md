@@ -1,0 +1,31 @@
+---
+author: FutureLearner.ai
+fetched_at: '2026-08-23T03:41:53.675150Z'
+id: 37f29c9b665d
+lane: lead
+published: ''
+source: linkedin
+title: A single AI model just found more zero-day vulnerabilities across more operating
+  systems than most cybersecurity teams c
+url: https://www.linkedin.com/posts/futurelearner-ai_aieducation-highereducation-cybersecurity-activity-7497111764921225216-ww_S
+---
+
+A single AI model just found more zero-day vulnerabilities across more operating systems than most cybersecurity teams could find in a year.
+
+That is not a hypothetical. It is the conversation now happening on campuses after Anthropic's Mythos announcement and the EDUCAUSE QuickPoll that followed.
+
+The uncomfortable truth is structural. Universities hold enormous reservoirs of sensitive data - student records, research IP, financial systems, health information. The people protecting that data are often working with the same tools and headcounts they had a decade ago. The asymmetry is no longer subtle. It is the operating reality.
+
+We have been thinking about this in three layers. First, operational. If AI can find vulnerabilities at scale, AI also has to be in the defence stack. Waiting for human teams to manually triage a threat environment that an adversary can automate is hope, not strategy.
+
+Second, curricular. Cybersecurity programmes were built around a human-speed threat model. That model is gone. Students entering the workforce in two years will be defending systems against AI-augmented attackers and using AI-augmented tools to do it. If their training still treats these as separate worlds, we are sending them in unprepared.
+
+Third, governance. Institutions need clear policies on how AI tools are used in security operations, what data they access, and how their outputs are verified. The speed of AI decisions makes the audit trail more important, not less.
+
+The QuickPoll showed that most higher education leaders are watching closely but few feel ready. That gap between awareness and readiness is where risk lives.
+
+None of this is reason to pull back from AI. It is reason to take it more seriously. Treat AI literacy as core infrastructure, not an elective. Invest in people who can think about offence and defence at machine speed. And stop assuming that the perimeter you built five years ago is the one you are defending today.
+
+How is your institution preparing its security posture for a threat landscape that no longer moves at human speed?
+
+#AIEducation #HigherEducation #Cybersecurity

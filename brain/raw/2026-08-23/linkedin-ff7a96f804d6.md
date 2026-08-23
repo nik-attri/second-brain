@@ -1,0 +1,39 @@
+---
+author: Aitomic Jobs
+fetched_at: '2026-08-23T03:41:53.671508Z'
+id: ff7a96f804d6
+lane: lead
+published: ''
+source: linkedin
+title: 'Opportunity alert: Facilities Manager
+
+
+  Facilities Manager with Colliers. We are seeking an experienced facilities profes'
+url: https://www.linkedin.com/posts/aitomic-jobs_facilities-manager-activity-7497129553853849600-k_J_
+---
+
+Opportunity alert: Facilities Manager
+
+Facilities Manager with Colliers. We are seeking an experienced facilities professional who takes pride in contributing to exceptional building operations and presentation standards. As part of our wider Real Estate Management division, you will manage key relationships with tenants and service providers,…
+
+Key details
+Organization: Colliers
+Opportunity type: Job
+Sector: Information Technology
+Location: Macquarie Park, NSW, Australia, Australia
+Work mode: On-site
+Deadline: Not specified
+Start date: 2026-07-06
+Duration: Not specified
+Compensation: Not specified
+
+Who should consider this
+ironmental performance of our clients’ assets. This position is part-time 3 days a week and based at a client site in Macquarie Park. Other key accountabilities include: Ensure building compliance and drive engineering standards across the portfolio. Manage the day-to-day operations and presentation of properties, including security, maintenance and...
+
+What to review on Aitomic Jobs
+Full description, responsibilities or submission instructions, eligibility requirements, benefits or compensation notes, and the official source link.
+
+Full details and official application link
+https://lnkd.in/evt6EWh6
+
+#AitomicJobs #Opportunities #CareerOpportunity #Jobs #Hiring #Technology #Australia

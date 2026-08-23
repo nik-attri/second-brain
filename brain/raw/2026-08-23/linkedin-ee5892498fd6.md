@@ -1,0 +1,54 @@
+---
+author: Kate Williamson
+fetched_at: '2026-08-23T03:41:53.683329Z'
+id: ee5892498fd6
+lane: lead
+published: ''
+source: linkedin
+title: 'Bloody hell. I’m actually doing this.
+
+
+  Yesterday, that thought felt exhilarating.
+
+
+  The Steady Place is growing. Enquirie'
+url: https://www.linkedin.com/posts/kate-williamson-a76155310_bloody-hell-im-actually-doing-this-yesterday-activity-7496913196725964801-RTV9
+---
+
+Bloody hell. I’m actually doing this.
+
+Yesterday, that thought felt exhilarating.
+
+The Steady Place is growing. Enquiries are coming in, I’m building new relationships, meeting brilliant people and having conversations I couldn’t have imagined a year ago.
+
+Today, I burst into tears talking to my husband about accounts and spreadsheets. 😆
+
+And perhaps that’s an equally important part of the story.
+
+This time last year, I was grieving the loss of a job I’d loved for ten years - and with it, financial security, relationships, confidence and a real sense of belonging within my community.
+
+A year later, I’m building something of my own.
+
+I love what I’m creating, but I’m discovering that building something you care deeply about can be exciting and overwhelming in almost equal measure.
+
+One day you feel unstoppable.
+
+The next, a spreadsheet finishes you off.
+
+There is still self-doubt. There is a huge amount I’m learning as I go. And there are days when the sheer responsibility of holding all the different pieces feels heavy.
+
+I’m sharing this because professional journeys can look remarkably tidy from the outside.
+
+They’re often anything but.
+
+Yesterday I was buzzing. Today I’m exhausted.
+
+Both are part of it.
+
+And perhaps the most meaningful realisation of all?
+
+A year after losing a place where I thought I belonged, I’m building one.
+
+Bloody hell.
+
+I’m actually doing it. ❤️
