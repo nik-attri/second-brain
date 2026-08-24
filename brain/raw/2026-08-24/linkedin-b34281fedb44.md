@@ -1,0 +1,33 @@
+---
+author: James Ho marketing expert
+fetched_at: '2026-08-24T03:45:16.288017Z'
+id: b34281fedb44
+lane: lead
+published: ''
+source: linkedin
+title: 'Meet Our Cordless Wet‑Dry Floor Cleaner – Your Next High‑Margin Home Cleaning
+  Star!
+
+
+  Tired of multi‑step floor cleaning?'
+url: https://www.linkedin.com/posts/homecarefit_floorwasher-smallhomeappliance-homecare-activity-7497487655861952512-b55r
+---
+
+Meet Our Cordless Wet‑Dry Floor Cleaner – Your Next High‑Margin Home Cleaning Star!
+
+Tired of multi‑step floor cleaning? Our upgraded P3 all‑in‑one floor washer vacuums, sweeps, mops and washes in one single pass. It handles wet spills, sticky sauces, pet hair, food debris and dry messes across all hard floors effortlessly.
+
+✅ **Core Highlights**
+🔹 18KPa strong suction powered by 230W BLDC motor
+🔹 Electrolytic water disinfection for hygienic home cleaning
+🔹 Bi‑directional self‑cleaning + hot‑air roller drying, prevents mold growth
+🔹 Hair‑entanglement‑proof design, perfect for pet‑owner households
+🔹 3‑side edge cleaning, reaches tricky corners
+🔹 LED display + voice prompt | Low noise＜66dB | Light‑weight 3.80kg
+🔹 Runtime:22‑45 mins, covers up to 220㎡ for whole‑house cleaning
+
+No more manually scrubbing the roller! After cleaning, just place it back on the dock. Self‑cleaning and hot‑air drying do all the work for you.
+
+We support OEM & ODM customization. If you are sourcing competitive floor washers for your brand, drop us a message for full specs, quotation and sample info.
+
+#FloorWasher #SmallHomeAppliance #HomeCare #OEMODM #HouseholdCleaning

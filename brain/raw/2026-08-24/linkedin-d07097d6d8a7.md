@@ -1,0 +1,54 @@
+---
+author: Aksoro
+fetched_at: '2026-08-24T03:45:16.276703Z'
+id: d07097d6d8a7
+lane: lead
+published: ''
+source: linkedin
+title: 'Got your ID card ready? 👀
+
+
+  Because your next role might be waiting for you at Aksoro.
+
+
+  We’re opening several opportuniti'
+url: https://www.linkedin.com/posts/aksoro_new-vacancies-at-aksoro-activity-7497491345301897217-HUTG
+---
+
+Got your ID card ready? 👀
+
+Because your next role might be waiting for you at Aksoro.
+
+We’re opening several opportunities for people who are ready to take on new challenges, create impact, and grow with us.
+
+Yogyakarta Based - On Site (ASAP Join Preferred)
+1. Finance, Accounting, & Tax Specialist (https://lnkd.in/gJmXqZ5X)
+2. Copywriter (https://lnkd.in/gNdnuCFD)
+3. Product Development - Business Education Training (https://lnkd.in/gc_ag6zK)
+4. Partnership Specialist (https://lnkd.in/gqCKQPHC)
+5. Account Executive (CEO Office) (https://lnkd.in/gVhzy_J5)
+6. Sales Online Specialist (https://lnkd.in/gWa62Xz4)
+7. Data Entry Intern (https://lnkd.in/gbKhFnHS)
+
+Yogyakarta Based - Hybrid
+1. Jr. Business Specialist - Project-Based (https://lnkd.in/giGx_W6b)
+2. Graphic Design Intern (https://lnkd.in/gq3EEWV6)
+3. Social Media Growth Intern (https://lnkd.in/gUdXWHDm)
+
+Jakarta Based - Remote
+1. Sr. Event Quality Control - Project-based (https://lnkd.in/gX4x3m9W)
+2. Event Operations Specialist (https://lnkd.in/gFPzzUtX)
+3. Event Production Specialist (https://lnkd.in/gc8pww_n)
+4. Customer Relations Specialist (https://lnkd.in/g7PHCrjK)
+5. Partnership Specialist (https://lnkd.in/gzfdd5ZR)
+6. Product Development - Business Education Training (https://lnkd.in/gp_R-mgu)
+7. Freelance Copywriter (https://lnkd.in/gHjwCsAk)
+8. Freelance Event (https://lnkd.in/gCR8qRXk)
+
+Think your name belongs on one of these roles?
+
+Check out the positions below and find your next opportunity at Aksoro. 👇
+
+See you on the other side!
+
+#Aksoro #Hiring #CareerOpportunity #JobOpportunity #JobJogja #JobJakarta #InsideAksoro #LokerJogja #LokerJakarta #TalentReady

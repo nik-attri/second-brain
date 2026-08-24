@@ -1,0 +1,27 @@
+---
+author: Syed Qasir Abbas Bukhari
+fetched_at: '2026-08-24T03:45:16.268246Z'
+id: 58b2884e0fcf
+lane: lead
+published: ''
+source: linkedin
+title: 'AI Agents & Chatbots (Service Offer)
+
+  Most businesses don''t need "more AI." They need fewer manual tasks eating their
+  tea'
+url: https://www.linkedin.com/posts/syed-qasir-abbas-bukhari-95190b248_ai-aiagents-chatbots-activity-7497440434689040384-ABtS
+---
+
+AI Agents & Chatbots (Service Offer)
+Most businesses don't need "more AI." They need fewer manual tasks eating their team's time.
+That's what I build: AI agents and chatbots that actually do work — not toy demos.
+Over the past 3 years, I've helped 10+ businesses replace repetitive tasks with AI systems that:
+→ Answer customer questions instantly, 24/7 — no more missed leads overnight
+→ Qualify and route leads automatically, so your sales team only talks to serious buyers
+→ Handle bookings, FAQs, and support tickets without a human touching every message
+→ Plug into your existing tools (WhatsApp, website, CRM) instead of forcing you onto a new platform
+One recent project: built a WhatsApp + website chatbot for a growing e-commerce store that was drowning in repetitive order-status and return questions. The agent now handles order tracking, return requests, and product FAQs automatically — cutting average response time from ~5 hours to under 3 minutes, and resolving about 65% of incoming chats with zero human involvement. Support staff now only step in for the complex cases that actually need a person.
+If your team is buried in repetitive conversations — customer support, lead qualification, appointment booking, FAQs — there's a good chance an AI agent can take that off your plate within weeks, not months.
+I'm currently taking on 3 new clients this month.
+📩 DM me "AGENT" or drop a comment, and I'll walk you through what a custom AI agent could look like for your business — no generic pitch, just a quick look at your actual workflow.
+#AI #AIAgents #Chatbots #Automation #ArtificialIntelligence #BusinessAutomation #MachineLearning

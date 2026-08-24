@@ -1,0 +1,32 @@
+---
+author: InCorp Global
+fetched_at: '2026-08-24T03:45:16.273217Z'
+id: c11dbe780094
+lane: lead
+published: ''
+source: linkedin
+title: 'Most organisations already have an AI policy problem. They just have not written
+  one yet.
+
+
+  On 20 August 2026, we hosted'
+url: https://www.linkedin.com/posts/incorpglobal_ascentiumsingapore-incorpsingapore-ai-activity-7497487884061405184-AEDG
+---
+
+Most organisations already have an AI policy problem. They just have not written one yet.
+
+On 20 August 2026, we hosted "Productivity or Risk? Governing AI in the Workplace" - a senior-level panel organised by the Singaporean-German Chamber of Industry and Commerce / AHK Singapur HR Committee, supporting business owners, HR leaders, and senior management in navigating the potential of workplace AI adoption and its governance demands.
+
+Moderated by David Stepat, MSID-AD, our panellists JH Y., Christopher Chew, and Uli Hitzel engaged in a practical discussion on how companies can adopt AI for productivity gains while preserving control, accountability, and compliance.
+
+The message we kept returning to: productivity and compliance are not in opposition. Handled well, strong governance keeps AI adoption on solid ground and gives organisations the confidence to move forward boldly.
+
+At the heart of it all, AI still needs a human element, particularly for decision-makers. AI can surface insights, flag patterns, and automate workflows, but accountability, judgement, and strategic direction remain firmly with people. That guardrail is not a limitation - it is what makes AI genuinely powerful and trustworthy in the workplace.
+
+A sincere thank you to our panellists for sharing such candid, practical perspectives, to the SGC HR Committee for organising a session that sparked genuine conversation, and to every attendee who brought thoughtful questions and energy to the room. Events like this are only as good as the people in them.
+
+If your organisation is working through AI governance, workplace policy, compliance, or broader operational challenges, we welcome the conversation.
+
+🔗 Connect with InCorp Singapore, an Ascentium company: https://lnkd.in/gZXN2J7u
+
+#AscentiumSingapore #InCorpSingapore #AI #Governance #Policy #HR #Data

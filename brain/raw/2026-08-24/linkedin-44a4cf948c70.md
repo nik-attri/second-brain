@@ -1,0 +1,81 @@
+---
+author: Avdesh Garg
+fetched_at: '2026-08-24T03:45:16.275251Z'
+id: 44a4cf948c70
+lane: lead
+published: ''
+source: linkedin
+title: '🚨 5,000+ MNC REFERRAL OPPORTUNITIES + INTERVIEW CRACKING PROGRAM 🚨
+
+  🎯 FRESHER OR EXPERIENCED? DISCOVER OPPORTUNITIES UP T'
+url: https://www.linkedin.com/posts/avdesh-garg-95666a67_gartner-ey-deloitte-activity-7497493178699329536-fID_
+---
+
+🚨 5,000+ MNC REFERRAL OPPORTUNITIES + INTERVIEW CRACKING PROGRAM 🚨
+🎯 FRESHER OR EXPERIENCED? DISCOVER OPPORTUNITIES UP TO ₹70 LPA 🔥
+Struggling to get interview calls, referrals, or the right job opportunities?
+Stop applying randomly. Start applying strategically. 🚀
+🏢 COMPANIES & OPPORTUNITIES
+#Gartner — AI/ML Engineer
+#EY — AI & Data / Business Analyst / Product Manager
+#Deloitte — AI & Data / Product Owner / Business Analyst
+#Accenture — AI & Data Science / Analyst
+#TCS — Freshers / MBA 2026
+#NTTDATA — Business Analyst / Data Analyst
+#JioPlatforms — Technology / AI Roles
+#Capgemini — Python Developer
+#JPMorganChase — Data Analytics & Reporting
+#Microsoft — Product Manager
+#MorganStanley — Business Analyst / Automation
+#Genpact — Data Analyst / Power BI
+#Zomato — Business Analytics
+#JioHotstar — Product Analytics
+#BNPParibas — Quant & Risk
+#Airtel — Product Management
+#HDFCERGO — Product Management
+#IDFCFirstBank — Analyst / Model Risk
+#Flipkart — Data Analyst
+#Experian — Product Owner
+#Kyndryl — Technology / Business Roles
+#SocieteGenerale — Banking / Analytics
+#Equifax — Data & Analytics
+#Cars24 — Business Strategy
+#Rapido — Data Science / Business Growth
+#Zepto — Product Manager
+#KreditBee — Product Analyst
+#Legrand — Product Manager
+#Forcepoint — Product Manager
+#Tredence — Data Engineering
+#eClerx — Financial Analyst
+#Amdocs — Technology Roles
+#IndiaMART — Product Management
+#NatWestGroup — Fresher Opportunities
+#MichaelPage — AI / Technology
+#Ascendion — Product Owner
+#Bounteous — Full Stack / Testing
+#WalkingTreeTechnologies — Python Engineer
+#DevCare — AI Engineer
+#Appinventiv — AI/ML
+➕ AND MANY MORE OPPORTUNITIES
+💼 CAREERS COVERED
+🤖 AI/ML | 🧠 Data Science | 📊 Data Analytics | 💼 Business Analysis | 🚀 Product Management | 📋 MIS | ⚙️ Operations | 💻 Software & Technology
+🎁 WHAT YOU GET
+✅ 5,000+ MNC Referral Opportunities
+✅ Resume & LinkedIn Profile Guidance
+✅ Interview Preparation
+✅ Role-Specific Interview Guidance
+✅ Understand What Interviewers Look For
+✅ Job Search & Career Strategy
+✅ Practical Shortlisting Guidance
+🔥 YOUR JOB SEARCH, BUT WITH A STRATEGY
+Find Opportunities → Apply Strategically → Improve Your Profile → Prepare Better → Crack Interviews → Move Toward Your Next Opportunity
+💰 Explore opportunities ranging from entry-level roles to packages up to ₹70 LPA.
+🎁 FIRST JOB SEEKERS: GET 90% OFF
+🏷️ Code: 90PERCENT
+🚀 GET ACCESS NOW
+👉 BUY HERE:
+https://lnkd.in/gUVQex7c
+💡 DON’T JUST APPLY TO MORE JOBS. APPLY BETTER.
+Get Referred → Prepare Strategically → Crack the Interview → Build Your Career. 🔥
+
+#MNCJobs #MNCReferrals #JobReferrals #FreshersJobs #ExperiencedProfessionals #Hiring #CareerGrowth #InterviewPreparation #AIJobs #DataScienceJobs #DataAnalytics #BusinessAnalyst #ProductManagement #TechJobs #JobsInIndia #CareerOpportunity #HighPayingJobs #70LPA #JobSeekers

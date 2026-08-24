@@ -1,0 +1,21 @@
+---
+author: Ric Arber
+fetched_at: '2026-08-24T03:45:16.264647Z'
+id: f16d1b8df568
+lane: lead
+published: ''
+source: linkedin
+title: 'Join us tomorrow for a bite-sized webinar: From Resume Overload to Hiring
+  Momentum — Winston Match & Screen for SAP Succ'
+url: https://www.linkedin.com/posts/ric-arber_join-us-tomorrow-for-a-bite-sized-webinar-activity-7497449469286858752-40gc
+---
+
+Join us tomorrow for a bite-sized webinar: From Resume Overload to Hiring Momentum — Winston Match & Screen for SAP SuccessFactors Recruiting Teams
+
+Recruiting teams supporting SAP roles are drowning in applications but starved for time. In this session, we're pulling back the curtain on how SmartRecruiters and Winston work together to help recruiters spend less time sifting and more time engaging the candidates who actually fit.
+
+You'll see AI-powered matching and screening in action: how it trims down manual review, surfaces the strongest candidates faster, and brings a more consistent, repeatable process to every recruiter's workflow.
+
+If resume overload, screening inconsistency, or pressure to speed up hiring without sacrificing quality sounds familiar, this is a session worth carving out time for.
+
+Register Here: https://lnkd.in/grJZuhby for the 20 minute session
