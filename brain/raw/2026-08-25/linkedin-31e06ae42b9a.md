@@ -1,0 +1,32 @@
+---
+author: Aaron Patterson
+fetched_at: '2026-08-25T03:40:11.515814Z'
+id: 31e06ae42b9a
+lane: lead
+published: ''
+source: linkedin
+title: "Finally, a good use of AI! \U0001F61C \n\nAlex from the Grid Ops team last\
+  \ week thought it'd be a fun exercise to use AI to help us"
+url: https://www.linkedin.com/posts/aaronpatterson_finally-a-good-use-of-ai-alex-from-activity-7497674480069287937-OL_M
+---
+
+Finally, a good use of AI! 😜 
+
+Alex from the Grid Ops team last week thought it'd be a fun exercise to use AI to help us all get to know each other a little better given we're all spread around the land and working on lots of different projects. The prompt we had to use was "Write a warning about me to someone who has never met me". I got the text below, and then Alex suggested we ask AI to make an illustration of this (mine presented without edits). As I said to the group when posting my results, I was both impressed and freaked out a little. Definitely interested if anyone else has done any fun team building stuff with AI - let me know! 
+
+WARNING: AARON PATTERSON
+May initially appear relaxed, reasonable, and easygoing. Do not be fooled.
+Subject is highly likely to turn a casual conversation into a strategy session, research a major purchase to an absurd level of detail, optimize something that was functioning perfectly well five minutes ago, or ask a question beginning with “Out of curiosity…” that ultimately involves a spreadsheet, three scenarios, and a decision framework.
+
+Known characteristics include strong opinions loosely held, low tolerance for corporate nonsense, an instinctive desire to understand how things actually work, and an inability to leave an interesting problem alone once he has noticed it.
+
+Frequently operates simultaneously as executive, consultant, investor, husband, dad, amateur financial analyst, car enthusiast, utility-industry nerd, and someone who has suddenly decided that this Monday is when the comprehensive life reset begins.
+
+Will happily discuss grid modernization, private equity, tax strategy, Porsches, watches, travel, politics, AI, retirement planning, snowboarding, or whether a particular purchase is “actually worth it” with very little warning.
+Competitive tendencies may emerge around track driving, Fantasy Premier League, career opportunities, or anything else for which somebody has inconveniently created a ranking.
+
+Important handling instructions: bring evidence, skip the sales pitch, be comfortable being challenged, and don't mistake questioning for disagreement. If you have a good argument, he'll probably change his mind. If you have a bad one, expect follow-up questions.
+
+Generally safe to approach.
+
+Primary risk: you may start with a five-minute conversation and emerge 45 minutes later with a better plan for your career, finances, operating model, and next car.
