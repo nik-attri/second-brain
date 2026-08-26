@@ -1,0 +1,42 @@
+
+===== run 2026-08-26T03:44:44.450796Z =====
+
+--- ingest.py ---
+ingesting 2026-08-26
+  youtube @nicksaraev -> 0 (0 with transcript)
+  youtube @lennyspodcast -> 0 (0 with transcript)
+  youtube @campusx-official -> 0 (0 with transcript)
+  youtube @krishnaik06 -> 0 (0 with transcript)
+  transcript cache: 0 videos, 8 new fetches left
+  linkedin leads (6 queries) -> 60 posts
+  linkedin capability (1 authors) -> 0 posts
+fetched 60 raw items
+prefilter: 58 kept, 2 dropped (dupe/short/older than 7d)
+wrote 58 -> /home/runner/work/second-brain/second-brain/brain/raw/2026-08-26
+
+--- score.py ---
+scoring batch 1/5 (12 items)
+  ! Anthropic unavailable (BadRequestError) — switching to Gemini gemini-3.6-flash for the rest of this run
+scoring batch 2/5 (12 items)
+scoring batch 3/5 (12 items)
+Traceback (most recent call last):
+  File "/home/runner/work/second-brain/second-brain/engine/score.py", line 245, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/home/runner/work/second-brain/second-brain/engine/score.py", line 235, in main
+    results += score_batch(client, criteria, batch, cfg)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/second-brain/second-brain/engine/score.py", line 171, in score_batch
+    return call_gemini(criteria, payload, gem_model)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/second-brain/second-brain/engine/score.py", line 151, in call_gemini
+    resp.raise_for_status()
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent
+
+--- verify.py ---
+verified 0 leads
+
+--- synthesize.py ---
+digest -> /home/runner/work/second-brain/second-brain/brain/synth/2026-08-26-digest.md (0 kept)
