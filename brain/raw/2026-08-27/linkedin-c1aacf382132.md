@@ -1,0 +1,22 @@
+---
+author: Amsterdam jobs
+fetched_at: '2026-08-27T13:20:19.184913Z'
+id: c1aacf382132
+lane: lead
+published: ''
+source: linkedin
+title: '#hiring Electrical Engineer Data Center
+
+
+  Apply here: https://lnkd.in/g5eChT9u
+
+
+  Around Schiphol-Rijk runs the densest dat'
+url: https://www.linkedin.com/posts/amsterdamjobs_httpsjobsrminecomjobnlelectrical-engineer-data-center-activity-7498724409638010880-0337
+---
+
+#hiring Electrical Engineer Data Center
+
+Apply here: https://lnkd.in/g5eChT9u
+
+Around Schiphol-Rijk runs the densest data center cluster in Europe, and every one of those data centers runs on power that must never fail. That is what you work on.UPS systems, battery banks and backup power: the installations that keep servers up, even when the grid drops out. You replace battery modules, measure voltage and conductance, pull and label cables and record what you did, because in these buildings the documentation weighs as much as the work. Your working area is around the corner, the data centers of Amsterdam and Schiphol-Rijk, with the occasional trip to Frankfurt or Brussels. If you come from commercial and industrial buildings and UPS is new to you, you learn those systems here on the installation itself, alongside an experienced engineer. Physical, technical and precise, because a mistake is not an option here.The essentials: Salary €3.300 to €4.100 per month 40 hours per week Fulltime Based in Amsterdam.In this role you earn €3.300 at entry, rising to €4.100 as an experienced engineer. Growing on to Senior can later reach €4.900, but you are applying now for the Data Center Engineer role.What you bringSolid experience as an electrical engineer in commercial and industrial buildings, for example offices, healthcare, industry or data centersMBO 3 Electrical Engineering or equivalent experienceKnowledge of UPS and backup power systems, extensive experience with them is a welcome plusNEN 3140 VP and VCA VOL, or the willingness to obtain themDrivers license BYou can work independentlyEnglish at working level is a plusWilling to work abroad

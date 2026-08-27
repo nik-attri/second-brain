@@ -1,0 +1,37 @@
+
+===== run 2026-08-27T13:20:01.266634Z =====
+
+--- ingest.py ---
+ingesting 2026-08-27
+  ! YouTube IP-blocked; falling back to descriptions this run
+  youtube @nicksaraev -> 15 (0 with transcript)
+  youtube @lennyspodcast -> 15 (0 with transcript)
+  youtube @campusx-official -> 15 (0 with transcript)
+  youtube @krishnaik06 -> 15 (0 with transcript)
+  transcript cache: 0 videos, 7 new fetches left
+  linkedin leads (6 queries) -> 60 posts
+  linkedin capability (1 authors) -> 0 posts
+fetched 120 raw items
+prefilter: 65 kept, 55 dropped (dupe/short/older than 7d)
+wrote 65 -> /home/runner/work/second-brain/second-brain/brain/raw/2026-08-27
+
+--- score.py ---
+scoring batch 1/6 (12 items)
+  ! Anthropic unavailable (BadRequestError) — switching to Gemini gemini-3.6-flash for the rest of this run
+scoring batch 2/6 (12 items)
+scoring batch 3/6 (12 items)
+scoring batch 4/6 (12 items)
+scoring batch 5/6 (12 items)
+scoring batch 6/6 (5 items)
+
+BEFORE: 65 raw items
+AFTER:  3 kept (score >= 6)
+-> /home/runner/work/second-brain/second-brain/brain/scored/2026-08-27
+
+--- verify.py ---
+  OK  Pyxidia Tech -> https://www.linkedin.com/posts/ayushi-sharma-54a20626b_pyxidia-techlab-hr-it-services-activity-7477593394148491264-kn5r
+  OK  The Worksite Group -> https://theworksitegroup.com/angela-hansen/angela
+verified 2 leads
+
+--- synthesize.py ---
+digest -> /home/runner/work/second-brain/second-brain/brain/synth/2026-08-27-digest.md (3 kept)

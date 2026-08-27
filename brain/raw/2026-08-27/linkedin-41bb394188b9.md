@@ -1,0 +1,51 @@
+---
+author: Vikas sharma
+fetched_at: '2026-08-27T13:20:19.193841Z'
+id: 41bb394188b9
+lane: lead
+published: ''
+source: linkedin
+title: '🚀 Hiring: CrowdStrike Falcon Fusion SOAR Engineer | Bangalore
+
+
+  We are looking for strong CrowdStrike Falcon Fusion SOAR'
+url: https://www.linkedin.com/posts/vikas-sharma-75b944292_hiring-crowdstrike-falconfusion-activity-7498723583037345792-KVv0
+---
+
+🚀 Hiring: CrowdStrike Falcon Fusion SOAR Engineer | Bangalore
+
+We are looking for strong CrowdStrike Falcon Fusion SOAR professionals to join our team in Bangalore.
+
+📍 Location: Bangalore
+💼 Experience: 4–8 Years
+💰 Budget: Up to 22 LPA
+⏱️ Notice Period: Immediate Joiners Only
+
+
+🔑 Mandatory Skill
+
+CrowdStrike Falcon Fusion SOAR – Mandatory
+❌ Profiles without hands-on CrowdStrike Falcon Fusion SOAR experience will not be considered.
+
+Key Responsibilities
+
+• Administer and support the SOAR platform
+• Manage SOAR agents, configurations, updates and platform health
+• Troubleshoot connectors and integrations with SIEM, EDR, Firewall, Threat Intelligence and Ticketing platforms
+• Develop, maintain and optimize SOAR playbooks
+• Automate incident response, IOC enrichment, phishing triage and other SOC use cases
+• Develop and deploy new connectors using APIs/integrations
+• Manage RBAC, access reviews and platform governance
+• Perform backup, configuration and disaster recovery activities
+• Support incident response workflows and manual approval/denial processes
+• Conduct platform health checks and performance optimization
+• Prepare SOPs, playbook documentation and performance reports
+• Coordinate with vendors for troubleshooting, patches, upgrades and enhancements
+• Expand SOAR use cases to improve SOC efficiency and reduce MTTR
+
+
+📩 Interested candidates can share their updated resume in DM.
+
+Vikas.sharma@codersbrain.com
+
+#Hiring #CrowdStrike #FalconFusion #SOAR #CyberSecurity #SecurityAutomation #SOC #IncidentResponse #BangaloreJobs # #ImmediateJoiner #JobsInBangalore
