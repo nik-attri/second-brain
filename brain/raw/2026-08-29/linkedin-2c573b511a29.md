@@ -1,0 +1,45 @@
+---
+author: MUHAMMAD NAEEM
+fetched_at: '2026-08-29T09:33:50.850144Z'
+id: 2c573b511a29
+lane: lead
+published: ''
+source: linkedin
+title: I used to watch sales teams spend hours manually copying LinkedIn profiles,
+  hunting for verified emails, and updating sp
+url: https://www.linkedin.com/posts/muhammad-naeem-15675441b_i-used-to-watch-sales-teams-spend-hours-manually-activity-7499393202270126080-YTFs
+---
+
+I used to watch sales teams spend hours manually copying LinkedIn profiles, hunting for verified emails, and updating spreadsheets line by line.
+
+It wasn't just tedious—it was slowing down deals and eating up valuable time that could be spent actually closing clients.
+
+So I decided to solve it. 
+
+I designed and deployed an automated LinkedIn Lead Enrichment Agent using n8n and Google Gemini AI.
+
+Here is how the system handles the heavy lifting behind the scenes:
+
+Instant Data Capture: As soon as a lead profile or chat request comes in, a Webhook captures it automatically.
+
+AI Processing: Google Gemini processes the raw profile details, holds contextual memory, and structures the search query.
+
+Verified Contact Lookup: The agent connects directly to the Snov.io API to fetch verified business email addresses in real time.
+
+Smart Parsing: Data is automatically parsed, cleaned, and validated to prevent junk entries.
+
+Auto-Sync: Verified leads are instantly appended into Google Sheets, with a confirmation response sent back to the source.
+
+Where does this help in daily operations?
+
+B2B Sales Outreach: Turn raw LinkedIn links into actionable, contact-ready lead sheets overnight.
+
+Recruitment & Hiring: Instantly enrich candidate profiles with direct emails without manual digging.
+
+Agency Operations: Scaling cold email campaigns without hiring dedicated data-entry freelancers.
+
+By shifting from manual research to an automated API-driven agent, lead research time drops by over 80%. 
+
+Is your team still manually collecting lead data?
+
+Drop a comment below or send me a DM, and let’s discuss how custom AI automations can streamline your business operations.

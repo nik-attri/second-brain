@@ -1,0 +1,36 @@
+
+===== run 2026-08-29T09:33:33.398008Z =====
+
+--- ingest.py ---
+ingesting 2026-08-29
+  ! YouTube IP-blocked; falling back to descriptions this run
+  youtube @nicksaraev -> 15 (0 with transcript)
+  youtube @lennyspodcast -> 15 (0 with transcript)
+  youtube @campusx-official -> 15 (0 with transcript)
+  youtube @krishnaik06 -> 15 (0 with transcript)
+  transcript cache: 0 videos, 7 new fetches left
+  linkedin leads (6 queries) -> 60 posts
+  linkedin capability (1 authors) -> 0 posts
+fetched 120 raw items
+prefilter: 61 kept, 59 dropped (dupe/short/older than 7d)
+wrote 61 -> /home/runner/work/second-brain/second-brain/brain/raw/2026-08-29
+
+--- score.py ---
+scoring batch 1/6 (12 items)
+  ! Anthropic unavailable (BadRequestError) — switching to Gemini gemini-3.6-flash for the rest of this run
+scoring batch 2/6 (12 items)
+scoring batch 3/6 (12 items)
+scoring batch 4/6 (12 items)
+scoring batch 5/6 (12 items)
+scoring batch 6/6 (1 items)
+
+BEFORE: 61 raw items
+AFTER:  1 kept (score >= 6)
+-> /home/runner/work/second-brain/second-brain/brain/scored/2026-08-29
+
+--- verify.py ---
+  OK  Moustache Group -> https://jo.linkedin.com/in/bassemalhadidi
+verified 1 leads
+
+--- synthesize.py ---
+digest -> /home/runner/work/second-brain/second-brain/brain/synth/2026-08-29-digest.md (1 kept)

@@ -1,0 +1,51 @@
+---
+author: Gohar Naveed
+fetched_at: '2026-08-29T09:33:50.857486Z'
+id: c86457ac7006
+lane: lead
+published: ''
+source: linkedin
+title: '𝗕𝗲𝗳𝗼𝗿𝗲 𝘄𝗲 𝗯𝘂𝗶𝗹𝘁 𝗚𝗼𝗦𝗮𝗹𝗶𝗳𝘆, 𝘁𝗵𝗲 𝗵𝗼𝗻𝗲𝘀𝘁 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝘄𝗮𝘀𝗻''𝘁 𝘄𝗵𝗲𝘁𝗵𝗲𝗿 𝘄𝗲 𝗰𝗼𝘂𝗹𝗱 𝗯𝘂𝗶𝗹𝗱
+  𝗶𝘁.
+
+
+  It was whether we should.
+
+
+  We''re a serv'
+url: https://www.linkedin.com/posts/gohar-naveed_gohar-activity-7499390569371156480-xR1d
+---
+
+𝗕𝗲𝗳𝗼𝗿𝗲 𝘄𝗲 𝗯𝘂𝗶𝗹𝘁 𝗚𝗼𝗦𝗮𝗹𝗶𝗳𝘆, 𝘁𝗵𝗲 𝗵𝗼𝗻𝗲𝘀𝘁 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝘄𝗮𝘀𝗻'𝘁 𝘄𝗵𝗲𝘁𝗵𝗲𝗿 𝘄𝗲 𝗰𝗼𝘂𝗹𝗱 𝗯𝘂𝗶𝗹𝗱 𝗶𝘁.
+
+It was whether we should.
+
+We're a services company. Services businesses build products all the time and most of those products quietly die, because the thing that makes you good at client work is the thing that kills your own product.
+
+Client work has a deadline someone else set. Your product doesn't. So when a client escalates on a Tuesday, your product loses on Tuesday.
+
+𝗗𝗼 𝘁𝗵𝗮𝘁 𝗳𝗼𝗿𝘁𝘆 𝘁𝗶𝗺𝗲𝘀 𝗮𝗻𝗱 𝗶𝘁'𝘀 𝗱𝗲𝗮𝗱 𝘄𝗶𝘁𝗵𝗼𝘂𝘁 𝗮𝗻𝘆𝗼𝗻𝗲 𝗱𝗲𝗰𝗶𝗱𝗶𝗻𝗴 𝘁𝗼 𝗸𝗶𝗹𝗹 𝗶𝘁.
+
+I knew that going in, which made the decision harder rather than easier.
+
+Here's what actually made it a yes 👇
+
+→ 𝗪𝗲 𝘄𝗲𝗿𝗲 𝗮𝗹𝗿𝗲𝗮𝗱𝘆 𝗽𝗮𝘆𝗶𝗻𝗴 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗽𝗿𝗼𝗯𝗹𝗲𝗺. The hours our team spent on manual prospecting were real and recurring. If the product only ever worked for us, we'd still be ahead. That was the floor, and it meant the downside wasn't zero, it was a cost we were already absorbing.
+
+→ 𝗪𝗲 𝗰𝗼𝘂𝗹𝗱 𝘂𝘀𝗲 𝗶𝘁 𝗯𝗲𝗳𝗼𝗿𝗲 𝘄𝗲 𝘀𝗼𝗹𝗱 𝗶𝘁. Not a pilot. Actual daily use in our own pipeline, where the consequences land on us. Most product decisions are made on a market you're guessing at. We got to test ours on the only customer we understood completely.
+
+→ 𝗧𝗵𝗲 𝗺𝗮𝗿𝗸𝗲𝘁 𝗵𝗮𝗱 𝗮𝗻 𝗼𝗯𝘃𝗶𝗼𝘂𝘀 𝗴𝗮𝗽. The tools that do this well cost thousands a month and are built for companies with a sales department. Small teams doing the work manually had nothing in between. That's not a clever insight, it's just that nobody had bothered with the cheaper end.
+
+→ 𝗪𝗲 𝗮𝗹𝗿𝗲𝗮𝗱𝘆 𝗵𝗮𝗱 𝘁𝗵𝗲 𝗲𝗻𝗴𝗶𝗻𝗲. We'd built something adjacent before. This was a market pivot on existing machinery, not a build from zero. That changed the cost calculation more than anything else on this list.
+
+The thing that would have made it a no: if it had been a good idea we'd have to build from scratch, for a customer we didn't understand, while client work paid the bills.
+
+That's the version that dies in month four. I've watched other people build it.
+
+What I'd tell any services founder thinking about their own product: the question isn't whether the idea is good. Plenty of good ideas die inside agencies.
+
+𝗜𝘁'𝘀 𝘄𝗵𝗲𝘁𝗵𝗲𝗿 𝘆𝗼𝘂'𝗿𝗲 𝘁𝗵𝗲 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿, 𝗮𝗻𝗱 𝘄𝗵𝗲𝘁𝗵𝗲𝗿 𝘆𝗼𝘂'𝗱 𝗸𝗲𝗲𝗽 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗶𝘁 𝗶𝗳 𝗻𝗼𝗯𝗼𝗱𝘆 𝗲𝗹𝘀𝗲 𝗲𝘃𝗲𝗿 𝗯𝗼𝘂𝗴𝗵𝘁 𝗶𝘁.
+
+If the answer to both is no, it won't survive its first busy quarter.
+
+#BuildInPublic #ProductStrategy #TechFounders #StartupLife #B2BSales

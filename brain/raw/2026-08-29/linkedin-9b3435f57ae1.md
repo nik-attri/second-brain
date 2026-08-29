@@ -1,0 +1,43 @@
+---
+author: Sahas Pokhrel
+fetched_at: '2026-08-29T09:33:50.856472Z'
+id: 9b3435f57ae1
+lane: lead
+published: ''
+source: linkedin
+title: 'For a Product Manager like me, AI has really helped bring the thoughts running
+  around in my mind into reality.
+
+
+  I recent'
+url: https://www.linkedin.com/posts/sahas-pokhrel-547284199_projectmanagement-productmanagement-pmlife-activity-7499384671617708032-GOLE
+---
+
+For a Product Manager like me, AI has really helped bring the thoughts running around in my mind into reality.
+
+I recently worked with Gemini to turn one of my dark-humor ideas about Product Management into a short video. What used to require a lot of time, tools, and technical effort can now be explored much more easily.
+
+It’s genuinely exciting to witness this advancement.
+
+I created this in my free time, but the potential goes far beyond creating a fun video.
+
+As a Product Manager, I’m increasingly finding myself less focused on simply learning AI tools or trying to do everything manually, and more focused on how AI can become part of the way I work.
+
+I’m experimenting with AI agents to refine my day-to-day activities, from structuring thoughts and exploring ideas to improving how I approach product work and delivery.
+
+We’re still very early.
+
+But the interesting question is no longer just:
+“What can AI do?”
+
+It’s becoming:
+“What can I build, improve, and rethink when AI works alongside me?”
+And honestly, that’s an exciting place to be as a Product Manager.
+
+Would love to hear how other PMs are using AI in their day-to-day work.
+
+And don’t forget to share this with your PM friends. 😄
+
+Note: I am also learning A/B testing via this post. Please ignore the duplicate, and I hope you understand. 
+
+#ProjectManagement #ProductManagement #PMLife #WorkplaceHumor #ProjectManager
