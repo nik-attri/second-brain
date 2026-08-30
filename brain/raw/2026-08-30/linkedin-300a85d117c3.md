@@ -1,0 +1,82 @@
+---
+author: Alamgir Ahmed
+fetched_at: '2026-08-30T08:40:53.505069Z'
+id: 300a85d117c3
+lane: lead
+published: ''
+source: linkedin
+title: 'How an Enterprise AE Should Explain AI ROI to a CFO
+
+
+  If you’re selling AI to a CFO, don’t lead with the AI.
+
+
+  Lead with t'
+url: https://www.linkedin.com/posts/alamgirahmed_enterprisesales-ai-artificialintelligence-activity-7499739758307270656-PSYB
+---
+
+How an Enterprise AE Should Explain AI ROI to a CFO
+
+If you’re selling AI to a CFO, don’t lead with the AI.
+
+Lead with the economics.
+
+CFOs don’t need a 20-minute explanation of models, agents, automation or how sophisticated your platform is.
+
+They need to understand one thing:
+
+What measurable financial impact will this investment create?
+
+As an Enterprise AE, translate AI capabilities into business outcomes.
+
+Instead of:
+
+❌ “Our AI automates complex workflows.”
+
+Say:
+
+✅ “Your team currently spends 2,000 hours a year on this process. If we reduce that by 40%, what could you do with those 800 hours?”
+
+Instead of:
+
+❌ “Our platform uses predictive AI.”
+
+Say:
+
+✅ “If better forecasting reduced revenue leakage by even 2%, what would that mean financially?”
+
+Instead of selling features, build the business case around four areas:
+
+1. Revenue
+Can AI increase conversion, retention, upsell or sales productivity?
+
+2. Cost
+Can it reduce manual work, operational expense or the cost of serving customers?
+
+3. Risk
+Can it reduce fraud, errors, compliance exposure or costly poor decisions?
+
+4. Time
+Can it shorten sales cycles, reporting, onboarding or other processes?
+
+Then quantify it.
+
+If the solution costs £100,000 but can credibly generate or protect £400,000 of value, the conversation changes.
+
+But don’t stop at headline ROI.
+
+A CFO may also ask:
+
+• How quickly will we see value?
+• What are the implementation costs?
+• What assumptions underpin the ROI?
+• What happens if adoption is lower than expected?
+• How will we measure success?
+
+Enterprise selling is increasingly about value creation, not product demonstration.
+
+The best Enterprise AEs don’t simply explain what AI can do.
+
+They help the CFO understand what AI is worth.
+
+#EnterpriseSales #AI #ArtificialIntelligence #SaaS #B2BSales #SalesLeadership #CFO #ValueSelling #EnterpriseAE
