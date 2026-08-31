@@ -1,0 +1,33 @@
+---
+author: Pavel Zbar
+fetched_at: '2026-08-31T09:04:05.512635Z'
+id: 20a41e2cbb64
+lane: lead
+published: ''
+source: linkedin
+title: 'I didn’t expect “building agents” to become a normal part of my business development
+  job description.
+
+
+  To be fair, it st'
+url: https://www.linkedin.com/posts/pavel-zbar_skippersoft-businessdevelopment-aiagents-activity-7500106991818702848-_54p
+---
+
+I didn’t expect “building agents” to become a normal part of my business development job description.
+
+To be fair, it still isn’t in the job description. But somehow it became part of the job.
+
+Over the last year, the way we work at Skipper Soft has changed pretty quickly. We moved toward an AI-first approach, and lately more and more toward an agent-first one. Somewhere in that process, I stopped looking at AI as something that simply helps me do individual tasks faster. It started changing how I look at the work itself.
+
+A new process comes up, and before doing the same thing manually again, I’m already thinking about what can become a workflow, where an agent could take over part of the research, or whether two tools can just talk to each other instead of using me as the integration layer.
+
+Sometimes that works surprisingly well. Sometimes I connect everything, test it, and discover that I’ve built a very sophisticated way to create three new problems.
+
+I’m also not one of those people shouting from every corner that AI is about to replace everyone and everything. But the productivity difference is much harder to ignore. In some kinds of work, what one person can do with the right AI setup is already dramatically different from what was realistic before. And with everything moving as fast as it does now, choosing not to use that advantage starts to feel a little strange.
+
+So this is what I want to write about: what happens when you actually put agents, workflows and all these new tools into real business work. What genuinely helps, what looks clever but doesn’t, and what changes the way the work itself gets done.
+
+There’s already enough theory around AI.
+I’ll write from the part where you actually have to make it work.
+
+#SkipperSoft #BusinessDevelopment #AIAgents
