@@ -1,0 +1,56 @@
+---
+author: Soumya Mitra
+fetched_at: '2026-09-01T08:06:33.953407Z'
+id: 4cced3712457
+lane: lead
+published: ''
+source: linkedin
+title: '🔥 **JOB OPENINGS IN KOLKATA** 🔥
+
+
+  We''re hiring across multiple departments for reputed companies in Kolkata! Check
+  the op'
+url: https://www.linkedin.com/posts/soumya-mitra-a67a1a261_hiring-kolkatajobs-jobopening-activity-7500458473793708032-_5G3
+---
+
+🔥 **JOB OPENINGS IN KOLKATA** 🔥
+
+We're hiring across multiple departments for reputed companies in Kolkata! Check the openings below and apply if you're a great fit 👇
+
+---
+
+**💼 SALES & MARKETING**
+- Sales Executive | 2–3 yrs | ₹1.80–2.40 LPA
+- Sr. Sales Executive | 2–8 yrs | ₹3.00–4.20 LPA
+- Field Sales Executive | 0–5 yrs | ₹1.80–3.60 LPA
+- Sales Consultant | 2–3 yrs | ₹3.00–4.00 LPA
+- Business Development Manager | 1–3 yrs | ₹3.00–4.00 LPA
+- Digital Marketing Executive | 1–3 yrs | ₹2.40–4.20 LPA
+- Social Media Executive | 1–2 yrs | ₹1.00–2.00 LPA
+
+**📊 ACCOUNTS & FINANCE**
+- Junior Chartered Accountant | 1–3 yrs | ₹2.00–4.00 LPA
+- Accounts Executive | 4–5 yrs | ₹3.00–4.20 LPA
+- Accountant | 1–5 yrs | ₹2.50–3.00 LPA
+- HR & Accounts Executive | 1–3 yrs | ₹2.00–2.40 LPA
+
+**🎨 CREATIVE & DIGITAL**
+- Graphic Designer | 2–3 yrs | ₹2.00–3.00 LPA
+- Video Editor | 0–1 yr | ₹1.00–4.00 LPA
+- Creative Producer | 1–2 yrs | ₹3.00–6.00 LPA
+
+**🏢 ADMIN, HR & FRONT OFFICE**
+- HR Executive / HR Generalist | 2–5 yrs | ₹3.00–4.80 LPA
+- Executive Assistant | 3–5 yrs | ₹3.00–4.00 LPA
+- Front Office Executive | 1–5 yrs | ₹1.20–3.00 LPA
+- Data Entry Executive | 1–5 yrs | ₹1.20–2.00 LPA
+- Telecaller | 1–5 yrs | ₹1.00–2.40 LPA
+- Purchase Executive | 3–4 yrs | ₹4.20–4.80 LPA
+- Store Incharge | 2–5 yrs | ₹1.00–2.00 LPA
+
+---
+
+📩 Interested candidates can DM or send resumes for the relevant role on my careerconnectjobs22@gmail.com gmail. 
+Please mention the **exact job title** you're applying for while sharing your CV.
+
+#Hiring #KolkataJobs #JobOpening #CareerOpportunity #NowHiring

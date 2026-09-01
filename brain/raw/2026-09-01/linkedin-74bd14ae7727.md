@@ -1,0 +1,41 @@
+---
+author: Laetitia M.
+fetched_at: '2026-09-01T08:06:33.937977Z'
+id: 74bd14ae7727
+lane: lead
+published: ''
+source: linkedin
+title: "When I stepped into a new environment, I was handed a familiar tool: a shared\
+  \ Excel spreadsheet. \n\nThe justification for"
+url: https://www.linkedin.com/posts/l-marzeliere_businessprocess-operationalexcellence-governance-activity-7500432581906075649-9Moz
+---
+
+When I stepped into a new environment, I was handed a familiar tool: a shared Excel spreadsheet. 
+
+The justification for using it sounded completely reasonable at first: "It’s shared across multiple teams, locally and internationally, so everyone works on the same data."
+
+In reality, when a document is editable by everyone, it becomes reliable for no one.
+
+It didn't take long to uncover the operational chaos: 
+❌ Data integrity issues: Uncontrolled edits created version conflicts and duplicate efforts. 
+❌ Broken handoffs: Essential work was missing simply because one team assumed another had already updated the sheet. 
+❌ Single point of failure: Critical formulas relied on manual updates and habit rather than governance.
+
+The process was completely broken. But that was only half the story.
+
+When I investigated our tech stack, I realized our new ERP system was fully capable of automating this entire calculation natively.
+The team's immediate reaction? "Oh, it’s a new tool, so it’s not reliable yet. We can’t trust it for this type of calculation."
+
+So I dug deeper. 🔍
+
+It turned out that other teams within the very same organization had already abandoned Excel entirely and were running this exact calculation on the ERP with zero issues.
+
+The core problem wasn't system capability—it was trust, habit, and change management.
+
+Excel is a fantastic scratchpad, but it’s a dangerous foundation for core operations. People often stick to a broken manual file over a reliable automated system simply because "that’s how we’ve always done it."
+
+As Business Process Owners, our job isn't just to implement software. It’s to bridge the gap between tool capabilities and field adoption—helping teams leave "Excel Hell" behind to build scalable governance and data integrity.
+
+💬 Have you ever seen a team reject a perfectly capable ERP feature just to stay in their Excel comfort zone?
+
+#BusinessProcess #OperationalExcellence #Governance #ProcessManagement #FinanceTransformation #BusinessProcessOwner #ChangeManagement #ERP
