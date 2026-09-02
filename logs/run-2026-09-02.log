@@ -1,0 +1,37 @@
+
+===== run 2026-09-02T07:25:53.831779Z =====
+
+--- ingest.py ---
+ingesting 2026-09-02
+  ! YouTube IP-blocked; falling back to descriptions this run
+  youtube @nicksaraev -> 15 (0 with transcript)
+  youtube @lennyspodcast -> 15 (0 with transcript)
+  youtube @campusx-official -> 15 (0 with transcript)
+  youtube @krishnaik06 -> 15 (0 with transcript)
+  transcript cache: 0 videos, 7 new fetches left
+  linkedin leads (6 queries) -> 60 posts
+  linkedin capability (1 authors) -> 0 posts
+fetched 120 raw items
+prefilter: 62 kept, 58 dropped (dupe/short/older than 7d)
+wrote 62 -> /home/runner/work/second-brain/second-brain/brain/raw/2026-09-02
+
+--- score.py ---
+scoring batch 1/6 (12 items)
+  ! Anthropic unavailable (BadRequestError) — switching to Gemini gemini-3.6-flash for the rest of this run
+scoring batch 2/6 (12 items)
+scoring batch 3/6 (12 items)
+scoring batch 4/6 (12 items)
+scoring batch 5/6 (12 items)
+scoring batch 6/6 (2 items)
+
+BEFORE: 62 raw items
+AFTER:  2 kept (score >= 6)
+-> /home/runner/work/second-brain/second-brain/brain/scored/2026-09-02
+
+--- verify.py ---
+  OK  Pyxidia Tech -> https://www.linkedin.com/pub/dir/Pari/Agarwal
+  OK  Canaan Transportation LLC -> https://ca.linkedin.com/in/leslie-arnason-845197257
+verified 2 leads
+
+--- synthesize.py ---
+digest -> /home/runner/work/second-brain/second-brain/brain/synth/2026-09-02-digest.md (2 kept)

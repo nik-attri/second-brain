@@ -1,0 +1,38 @@
+---
+author: Latinum HR Solutions
+fetched_at: '2026-09-02T07:26:09.413440Z'
+id: d92414eb7507
+lane: lead
+published: ''
+source: linkedin
+title: '🚀 Hiring: Country Manager – Indonesia 🇮🇩🌏
+
+
+  🏢 Industry: Pharmaceuticals / Oncology / B2B
+
+  🕐 Experience: 10+ Years
+
+
+  We are'
+url: https://www.linkedin.com/posts/latinum-hr-solutions-pvt-ltd_hiring-indonesiajobs-pharmajobs-activity-7500810871741411329-gUhy
+---
+
+🚀 Hiring: Country Manager – Indonesia 🇮🇩🌏
+
+🏢 Industry: Pharmaceuticals / Oncology / B2B
+🕐 Experience: 10+ Years
+
+We are hiring for a client for the role of Country Manager – Indonesia, responsible for leading business operations and driving growth in the Indonesian pharma market.
+
+We’re looking for professionals with strong international pharmaceutical experience, particularly in oncology/specialty segments, with a proven track record of building distributor and partner networks.
+
+🔹 Experience in the Indonesia pharma market
+🔹 Strong business expansion & partnership skills
+🔹 Exposure to oncology / specialty pharma
+🔹 Ability to drive country-level growth
+🔹 Strong distributor & partner network development experience
+
+📩 To apply, share your CV at:
+sukhmani@latinumhr.com & jobs@ats.latinumhr.com
+
+#Hiring #IndonesiaJobs #PharmaJobs #CountryManager #IndonesiaPharma #OncologyJobs #PharmaceuticalJobs #HealthcareJobs #GlobalPharma #LeadershipHiring #IndonesiaCareers #InternationalHiring

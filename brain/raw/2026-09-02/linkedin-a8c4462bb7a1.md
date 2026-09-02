@@ -1,0 +1,44 @@
+---
+author: Earl Street Recruitment
+fetched_at: '2026-09-02T07:26:09.402449Z'
+id: a8c4462bb7a1
+lane: lead
+published: ''
+source: linkedin
+title: 'Why use Earl Street Recruitment?
+
+
+  Using a recruitment agency saves time and money by outsourcing the heavy lifting
+  of hi'
+url: https://www.linkedin.com/posts/earl-street-employment-consultants-ltd_earlstreetrecruitment-jobsinkent-usingarecruitmentagency-activity-7500810039650058241-pNvo
+---
+
+Why use Earl Street Recruitment?
+
+Using a recruitment agency saves time and money by outsourcing the heavy lifting of hiring. Agencies give you access to a larger talent pool, find passive candidates, handle initial screenings, and offer expert market insight to fill roles quickly.
+
+Some of the key benefits to using Earl Street Recruitment include:
+
+Help writing job descriptions. Many agencies will help employers refine their job description and job ad so that it's as appealing to jobseekers as possible.
+
+Post job ads. Your recruiter will usually know the best places to advertise your role, and will take care of any uploading and data entry required to get your ad up and looking good on job board sites. 
+
+Handle enquiries. Even if they have yet to apply for the role, a lot of jobseekers will have questions about it. A recruitment agency will usually respond to all of these on the employer's behalf.   
+
+Screen applicants. Most recruiters will usually get in touch with job applicants individually to ask a few questions about themselves, their experience, and motivation for applying before passing their details on to the employer. 
+
+Shortlist applicants. Once they've checked over the CVs and spoken to the applicants, your recruiter will come to you with best candidates.
+
+Check references. Either before or after inviting them for interview, many recruiters will contact an applicant's referees to check that they actually have the skills and experience they mentioned on their application.
+
+Arrange interviews. Most business owners will inform their agency of choice of the dates and times they'd like to conduct interviews. The recruiter will then contact the shortlisted applicants and fit them into convenient slots.
+
+Help with selection. In some cases, a recruitment agency will even help employers making their final decision, offering sharing their impressions of the candidate and providing a second opinion where requested.
+
+If you haven't used an agency before or if you aren't happy with the ones you've used in the past, get in touch and let us show you why we have been placing the right people in the right jobs for over 49 years.
+
+recruit@earlstreet.co.uk
+01622 755329
+earlstreet.co.uk
+
+#earlstreetrecruitment #jobsinkent #usingarecruitmentagency

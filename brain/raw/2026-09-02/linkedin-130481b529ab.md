@@ -1,0 +1,56 @@
+---
+author: ATN Career Support
+fetched_at: '2026-09-02T07:26:09.400813Z'
+id: 130481b529ab
+lane: lead
+published: ''
+source: linkedin
+title: 'IQVIA is hiring for CDS / Sr CDC across Kochi and Bangalore — and the application
+  window closes 5 September 2026.
+
+
+  This'
+url: https://www.linkedin.com/posts/atn-careersupport_clinicaldatamanagement-cdmjobs-iqviacareers-activity-7500810575430574080-k09v
+---
+
+IQVIA is hiring for CDS / Sr CDC across Kochi and Bangalore — and the application window closes 5 September 2026.
+
+This isn't a narrow role. It's a genuine multi-track entry point into Clinical Data Management, opening toward:
+
+🎯 Data Operations Coordinator (DOC) responsibility
+🎯 Backup-DOC / team leadership exposure
+🎯 Database design, edit-check testing & UAT
+🎯 MedDRA / WHODrug coding
+🎯 Data review & query resolution
+Most listings make you pick a lane early. This one lets your strengths decide the direction.
+
+📌 Role: CDS / Sr CDC
+🏢 Company: IQVIA
+📍 Location: Kochi & Bangalore, India
+🆔 Req ID: R1535008
+⏳ Deadline: 5 September 2026 — 2 days left
+👉 Full breakdown + apply link: https://lnkd.in/dKVyJdVT
+
+
+If this is close to where you are in your CDM career, don't wait on this one — apply today, not "this week."
+
+We've also broken down exactly what "backup DOC" means, how this role compares across the CDM career ladder, and how to position your application fast — all in the full post.
+
+Career guides and ATS resume packs for CDM, CRA, Pharmacovigilance, Medical Writing, TMF, and Statistical Programming are linked in the comments
+
+📘 Career Guides
+🔗 CDM Career Guide (Best Match): https://lnkd.in/eVaMSpqJ
+🔗 CRA Career Guide: https://lnkd.in/dxUy7bSB
+🔗 Pharmacovigilance Career Guide: https://lnkd.in/d6Wfzc5V
+🔗 Statistical Programmer Career Guide: https://lnkd.in/dVUDErek
+🔗 Centralized Monitoring Career Guide: https://lnkd.in/d9uXifg2
+🔗 Medical Writer Career Guide: https://lnkd.in/dWCB9Tcb
+🔗 TMF Manager Career Guide: https://lnkd.in/dMnZQKPk
+📄 ATS Resume Packs (Pre-Filled, Fresher–2 YOE)
+🔗 CDM Resume Pack (Best Match): https://lnkd.in/dR9WAqhk
+🔗 Medical Writer Resume Pack: https://lnkd.in/d-jJmwkH
+🔗 Browse everything: https://lnkd.in/duRJi-St
+
+Know someone in CDM actively job hunting? Tag them — this closes fast. 🏷️
+
+#ClinicalDataManagement #CDMJobs #IQVIACareers #ClinicalResearch #DataOperations #HiringNow #LifeSciencesJobs #KochiJobs #BangaloreJobs #CareerAdvice #UrgentHiring #ClinicalTrials
