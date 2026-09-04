@@ -1,0 +1,63 @@
+
+===== run 2026-09-04T07:31:42.769198Z =====
+
+--- ingest.py ---
+ingesting 2026-09-04
+  ! YouTube IP-blocked; falling back to descriptions this run
+  youtube @nicksaraev -> 15 (0 with transcript)
+  youtube @lennyspodcast -> 15 (0 with transcript)
+  youtube @campusx-official -> 15 (0 with transcript)
+  youtube @krishnaik06 -> 15 (0 with transcript)
+  transcript cache: 0 videos, 7 new fetches left
+  linkedin leads (6 queries) -> 60 posts
+  linkedin capability (1 authors) -> 0 posts
+fetched 120 raw items
+prefilter: 62 kept, 58 dropped (dupe/short/older than 7d)
+wrote 62 -> /home/runner/work/second-brain/second-brain/brain/raw/2026-09-04
+
+--- score.py ---
+scoring batch 1/6 (12 items)
+  ! Anthropic unavailable (BadRequestError) — switching to Gemini gemini-3.6-flash for the rest of this run
+Traceback (most recent call last):
+  File "/home/runner/work/second-brain/second-brain/engine/score.py", line 174, in score_batch
+    return call_anthropic(client, criteria, payload, cfg["effort"])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/second-brain/second-brain/engine/score.py", line 118, in call_anthropic
+    response = client.messages.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/anthropic/_utils/_utils.py", line 294, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/anthropic/resources/messages/messages.py", line 968, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/anthropic/_base_client.py", line 1490, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/anthropic/_base_client.py", line 1174, in request
+    raise self._make_status_error_from_response(response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cei1WVuRhp5e7LfKFcyVp'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/work/second-brain/second-brain/engine/score.py", line 245, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/home/runner/work/second-brain/second-brain/engine/score.py", line 235, in main
+    results += score_batch(client, criteria, batch, cfg)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/second-brain/second-brain/engine/score.py", line 180, in score_batch
+    return call_gemini(criteria, payload, gem_model)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/second-brain/second-brain/engine/score.py", line 151, in call_gemini
+    resp.raise_for_status()
+  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/requests/models.py", line 1167, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 503 Server Error: Service Unavailable for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent
+
+--- verify.py ---
+verified 0 leads
+
+--- synthesize.py ---
+digest -> /home/runner/work/second-brain/second-brain/brain/synth/2026-09-04-digest.md (0 kept)
