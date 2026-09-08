@@ -1,0 +1,45 @@
+---
+author: Drake AI - Productive Intelligence for Oil & Gas
+fetched_at: '2026-09-08T07:33:14.929955Z'
+id: fa6da966502d
+lane: lead
+published: ''
+source: linkedin
+title: 'One Platform. Every Geoscience Workflow.
+
+
+  The future of subsurface interpretation requires more than individual tools. I'
+url: https://www.linkedin.com/posts/drake-ai-productive-intelligence-for-oil-gas_drakeai-geoscience-oilandgas-activity-7502986082834337793-4-2f
+---
+
+One Platform. Every Geoscience Workflow.
+
+The future of subsurface interpretation requires more than individual tools. It requires an intelligent platform that connects data, workflows, and domain expertise.
+
+Drake AI Geoscience brings together AI-powered solutions across Petrophysics, Seismic, CCUS, Geothermal, OCR, and AI-driven document intelligence into one integrated ecosystem.
+
+From well logs and seismic data to carbon storage evaluation and geothermal screening, Drake AI helps geoscientists:
+• Analyze complex subsurface data with domain-trained AI
+ • Automate repetitive interpretation workflows
+ • Extract insights from legacy technical documents
+ • Improve decision-making with intelligent predictions and analytics
+ • Build a unified data foundation across geoscience workflows
+
+With integrated capabilities including log visualization, missing log prediction, facies classification, formation tops, seismic enhancement, CCUS screening, geothermal analytics, Drake OCR, and Drake SLM/GPT, we are transforming how subsurface teams access and interpret their data.
+
+From data to intelligence. From intelligence to better decisions.
+
+Drake AI | Productive Intelligence for Oil & Gas
+🌐 Website: thedrake.ai
+📞 +1 281 942 5455
+📧 Malleswar@thedrake.ai
+📧 Sai@thedrake.ai
+
+Meet Our Team
+Malleswar Yenugu, Ph.D.
+CEO, Drake AI
+
+Pavan Naga Sai Chittinedi
+Geoscientist, Drake AI
+
+#DrakeAI #Geoscience #OilAndGas #ArtificialIntelligence #Petrophysics #Seismic #CCUS #Geothermal #Subsurface #DigitalTransformation #EnergyTechnology #AIForEnergy
