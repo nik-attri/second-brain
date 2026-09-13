@@ -1,0 +1,77 @@
+---
+author: KEMI ATANDA ILORI
+fetched_at: '2026-09-13T07:46:08.009772Z'
+id: 68f13380c63d
+lane: lead
+published: ''
+source: linkedin
+title: "ME AND MY PROSTITUTES: AṢẸ́WÓ AND THE ECONOMY OF MORALS – 3. The Gospel According\
+  \ to Chief Aṣẹ́wó\n \nEpigraph\nẸ wá wo ohu"
+url: https://www.linkedin.com/posts/kemi-atanda-ilori-29b8a92b_me-and-my-prostitutes-a%E1%B9%A3%E1%BA%B9w%C3%B3-and-the-economy-activity-7504477498194259970-oXg4
+---
+
+ME AND MY PROSTITUTES: AṢẸ́WÓ AND THE ECONOMY OF MORALS – 3. The Gospel According to Chief Aṣẹ́wó
+ 
+Epigraph
+Ẹ wá wo ohun tí mo rí -
+Iṣẹ́ Aṣẹ́wó dùn l’Àbújá
+Bí ẹni ńhọ ara pẹ̀lú adùn ni
+Bí ẹni nhọ ifọ́n dé inú egungun ni. 
+ 
+Come and see what my eyes have found
+the sex trade thrives in Abuja
+like an endless itch with frantic grace
+like scratching craw-craw to the very bone.
+ 
+ 
+The Gospel According to Chief Aṣẹ́wó
+ 
+Chief Aṣẹ́wó, financier extraordinaire,
+quoted both Proverbs and Warren Buffett
+while eating nkwobi beside a Lexus jeep.
+ 
+“Diversify thy portfolio,” he declared,
+“for thou knowest not what evil
+the stock market shall bring upon the earth.”
+ 
+Even Solomon would have admired him.
+The man invested in churches,
+nightclubs,
+rice importation,
+and three competing political parties
+simultaneously.
+ 
+Like Odysseus,
+he navigated economic storms.
+Like Job,
+he suffered temporary recession.
+Like Judas,
+he understood liquidity.
+ 
+His accountant carried spreadsheets
+the way Moses carried tablets.
+ 
+One day the EFCC arrived.
+ 
+Chief Aṣẹ́wó smiled calmly
+and offered them bottled water.
+ 
+“My brothers,” he said,
+“is it corruption
+if everybody eats?”
+ 
+Silence.
+ 
+Even Dante would have needed
+an additional circle of Hell
+for Nigerian accounting practices.
+ 
+Yet by evening
+Chief Aṣẹ́wó had secured a government contract
+to teach “Ethics in Entrepreneurship.”
+ 
+The audience applauded.
+The ghosts of Machiavelli and Milton Friedman
+clinked champagne glasses in approval.
+ 
+KEMI ATANDA ILORI, “ME AND MY PROSTITUTES: AṢẸ́WÓ AND THE ECONOMY OF MORALS”, ÀKÀLÀMÀGBÒ (THE GROUND HORNBILL) AND OTHER POEMS (2026)
