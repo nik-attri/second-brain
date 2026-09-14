@@ -1,0 +1,31 @@
+---
+author: Nattha MAMANEEDAENG
+fetched_at: '2026-09-14T08:17:33.740259Z'
+id: 5ff2fa2f7889
+lane: lead
+published: ''
+source: linkedin
+title: '🚨 We''re Hiring: Treasury Manager | Thailand
+
+
+  Are you an experienced Treasury professional with expertise in project fina'
+url: https://www.linkedin.com/posts/nattha-mamaneedaeng-4a64aa78_treasurymanager-treasuryjobs-financejobs-activity-7505172709069418496-lC8D
+---
+
+🚨 We're Hiring: Treasury Manager | Thailand
+
+Are you an experienced Treasury professional with expertise in project finance, corporate lending, and treasury risk management?
+A leading international company is seeking a Treasury Manager to play a key role in securing financing, managing banking relationships, and supporting strategic treasury operations while working closely with a Senior Regional Treasury Manager.
+
+What we're looking for:
+5+ years of experience in debt financing and treasury operations
+Strong knowledge of project finance, loan documentation, and financial modelling
+Experience working directly with banks and financial institutions
+Good command of English
+Professional certifications (CFA, CTP, ACT/AMCT, CPA, or ACCA) are a plus
+This is an excellent opportunity for finance professionals looking to advance their career in a dynamic, regional environment.
+📩 Apply now: nattha@iTalent.co.th
+📞 +66 99 462 4954
+
+If this role isn't the right fit for you, feel free to share it with someone in your network who may be interested.
+#TreasuryManager #TreasuryJobs #FinanceJobs #ProjectFinance #CorporateFinance #Treasury #Banking #Hiring #ThailandJobs #ExecutiveRecruitment #iTalent

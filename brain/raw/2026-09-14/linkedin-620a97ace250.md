@@ -1,0 +1,38 @@
+---
+author: Anjana Singh Chauhan
+fetched_at: '2026-09-14T08:17:33.747952Z'
+id: 620a97ace250
+lane: lead
+published: ''
+source: linkedin
+title: "\U0001F6A8 URGENT HIRING – General Manager – Sales (FMCG)\n\U0001F4CD Location:\
+  \ Kanpur\n \U0001F4B0 Salary: ₹25–30 LPA\n\U0001F4CD Experience- minimum 15 years"
+url: https://www.linkedin.com/posts/anjana-singh-chauhan-6b53972b8_urgent-hiring-general-manager-sales-activity-7505172184206671872-Hi_s
+---
+
+🚨 URGENT HIRING – General Manager – Sales (FMCG)
+📍 Location: Kanpur
+ 💰 Salary: ₹25–30 LPA
+📍 Experience- minimum 15 years from FMCG Background only, Area Expertise in UP & UK.
+ 🏭 Industry: FMCG
+We are looking for a dynamic and result-oriented General Manager – Sales to lead sales operations, drive business growth, and build a high-performing sales team.
+Key Responsibilities:
+✅ Drive primary & secondary sales to achieve revenue targets
+ ✅ Expand distributor & super stockist network across markets
+ ✅ Lead and mentor Regional Sales Managers (RSMs) & Area Sales Managers (ASMs)
+ ✅ Ensure effective market execution, outlet coverage & visibility
+ ✅ Monitor sales performance, product mix, pricing & competitor activities
+ ✅ Improve premium SKU contribution and market penetration
+ ✅ Manage collections, receivables & credit discipline
+ ✅ Coordinate with production/factory for seamless dispatch planning
+ ✅ Launch new products/SKUs and execute successful go-to-market strategies
+ ✅ Conduct regular sales reviews and implement growth strategies
+Requirements:
+✔ Proven leadership experience in FMCG Sales
+ ✔ Strong knowledge of General Trade (GT) sales & distribution management
+ ✔ Expertise in distributor development and market expansion
+ ✔ Excellent analytical, negotiation & team management skills
+ ✔ Ability to achieve aggressive sales targets and drive profitability
+Apply Now via Anaya Placement – Your Trusted Partner in Career Success
+ DM / WhatsApp: +91 9559825789/9792950678
+Email: anaya.placement11@gmail.com/hr.anayaplacement11@gmail.com
