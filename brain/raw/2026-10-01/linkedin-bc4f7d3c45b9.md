@@ -1,0 +1,35 @@
+---
+author: Ahmad Jimoh
+fetched_at: '2026-10-01T09:35:49.872971Z'
+id: bc4f7d3c45b9
+lane: lead
+published: ''
+source: linkedin
+title: 'Your leads don''t always give you clean data.
+
+  Sometimes they send:
+
+  “Hi, I need a quote for 3 locations. We need it next m'
+url: https://www.linkedin.com/posts/ahmad-jimoh-022230400_gohighlevel-ghl-highlevel-activity-7511351388761874432-ERAb
+---
+
+Your leads don't always give you clean data.
+Sometimes they send:
+“Hi, I need a quote for 3 locations. We need it next month. You can reach me after 4pm.”
+Before, turning that message into useful CRM data could require extra tools, code, or manual work.
+HighLevel now has AI Data Extract inside Workflows.
+It can take unstructured text from emails, SMS, webhooks, or AI responses and extract the information you actually need into usable workflow fields.
+So instead of storing a long message and hoping someone reads it later, your workflow can extract things like:
+• Number of locations
+• Service requested
+• Preferred contact time
+• Project timeline
+• Lead type
+• Other details your team needs
+Then your automation can actually use that information.
+This is where GHL is becoming more than a CRM.
+The real value isn't knowing that a new AI feature exists.
+It's knowing where to put it inside a customer's journey and what the system should do with the information afterward.
+If you're using HighLevel but still manually reading, sorting and routing a lot of lead information, there may be a smarter way to structure your system.
+That's the kind of GHL automation I build.
+#GoHighLevel #GHL #HighLevel #AIAutomation #CRM #WorkflowAutomation #GHLExpert #SalesAutomation
