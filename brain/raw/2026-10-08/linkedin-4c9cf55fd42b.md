@@ -1,0 +1,20 @@
+---
+author: Sharjah jobs, UAE
+fetched_at: '2026-10-08T09:42:54.286477Z'
+id: 4c9cf55fd42b
+lane: lead
+published: ''
+source: linkedin
+title: '#hiring Human Resources Executive Arabic Speaker L DoubleTree By Hilton Sharjah
+  Waterfront Hotel And Residences
+
+
+  Apply h'
+url: https://www.linkedin.com/posts/sharjah-jobs-uae_httpsjobsrminecomjobnahuman-resources-executive-arabic-speaker-l-doubletree-by-hilton-sharjah-waterfront-hotel-and-residences-activity-7513890984414420992-LezL
+---
+
+#hiring Human Resources Executive Arabic Speaker L DoubleTree By Hilton Sharjah Waterfront Hotel And Residences
+
+Apply here: https://lnkd.in/gPRV3M9U
+
+Job Description: Job Description Exceptional Hospitality Starts with You Picture yourself brightening someones day. When you join our Hotels team, thats exactly what youll do every time you come to work! As a Human Resources Executive, youre not just supporting the daily operations of the hotels HR function - youre spreading the light and warmth of hospitality by delivering memorable experiences that make the stay for every guest. Responsibilities Heres what youll do during a typical day:  Support daily HR operations: Assist in recruitment, training, compensation, benefits, team member relations, labor relations, compliance, safety, and performance management, ensuring compliance with corporate HR policies and federal/local regulations Enhance team member engagement: Help coordinate recognition programs, special events, and engagement initiatives to foster a positive workplace culture Manage HR systems and reporting: Oversee team member data entry, track employment transitions, maintain training and corrective action records, and generate reports on key HR metrics Inspire and develop the team: Supervise and support team members, monitor performance, provide coaching, and foster a positive and productive work environment Support the HR Manager in leading the HR function and delivering an exceptional Team Member experience. Partner with department leaders to support workforce planning, recruitment, retention, and talent development. Drive effective onboarding, performance management, learning, and development initiatives. Ensure consistent application of HR policies, procedures, and employment practices. Monitor key HR metrics and provide insights and recommendations to support business and people decisions. Lead Team Member engagement, recognition, and wellbeing initiatives that strengthen the workplace culture. Act on behalf of the HR Manager when required and ensure continuity of HR operations.  Qualifications What It Takes to Make the Stay At Hilton, Our Core Values Define What It Takes To Succeed Here And Guide The Qualities We Look For In Every Team Member A passion for spreading the light and warmth of Hospitality. Acting with Integrity and always doing the right thing. Inspiring others through Leadership. A belief that Teamwork drives the best outcomes. A sense of Ownership and accountability. And a focus on the Now, bringing urgency and discipline to every moment, knowing it can make a lasting impact.  Bachelors degree in Human Resources, Business Administration, Hospitality Management, or a related field is an advantage. Previous experience in a similar HR leadership role, preferably within a hotel or hospitality environment, is an advantage. Strong knowledge of HR policie
