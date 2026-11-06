@@ -1,0 +1,47 @@
+---
+author: Matthew Porteus
+fetched_at: '2026-11-06T10:07:26.145222Z'
+id: fa35be20ed13
+lane: lead
+published: ''
+source: linkedin
+title: 'A client with a £1.8m estate and a £600k pension walks into your office.
+
+
+  They ask one simple question:
+
+
+  "What actually'
+url: https://www.linkedin.com/posts/matthewporteus_a-client-with-a-18m-estate-and-a-600k-activity-7524408214151495680-YmuH
+---
+
+A client with a £1.8m estate and a £600k pension walks into your office.
+
+They ask one simple question:
+
+"What actually happens to my family’s tax bill on 6 April 2027?"
+
+If your current answer involves opening a 14-tab spreadsheet built in 2018 and praying the macro doesn't break… you are not alone.
+
+The reality facing UK wealth management right now is brutal:
+APR/BPR Capped at £2.5m (April 2026), with AIM relief slashed to 50%.
+Unspent pensions brought into the death estate (April 2027).
+For clients dying post-75 leaving defined-contribution pensions to non-spouse beneficiaries, the combined hit (40% IHT + up to 45% income tax on the remainder) reaches an effective 67%.
+
+Pensions are switching overnight from the ultimate IHT shelter to a massive tax trap.
+
+Yet when clients want clear answers: • "What is our exposure today versus 2027?" • "What if my spouse dies first instead of me?" (where RNRB tapering can swing the bill by six figures) • "How much do we actually save if we start gifting surplus income now?"
+
+Advisers are left spending 3–4 hours per review manually stitching together rough calculators, cash flow models, and Word docs.
+
+We built the IHT Planning Co-Pilot to eliminate that headache in 60 seconds:
+
+⚡ Instant Dual-Regime Analysis: Side-by-side exposure for today vs post-6 April 2027—calculated down to the exact statutory penny.
+⚡ Simultaneous Death-Order Modelling: Instant comparison of Husband first vs Wife first to stress-test transferable allowances and residence nil-rate bands.
+⚡ Actionable Mitigation Scenarios: Live modelling of PETs, regular surplus income gifting, trust allocations, and business relief investments.
+⚡ 100% White-Label Client Reports: Export a pristine, firm-branded PDF report (your logo, your colours, your regulatory text) before the client leaves the room.
+⚡ Zero Black-Box Math: Every single figure includes the full statutory trace back to legislation.
+
+Stop burning hours on manual calculations. Give your clients the clarity they are already paying you for.
+
+We are offering UK advisory firms an unrestricted 14-day free trial—no card needed, no setup delay.
