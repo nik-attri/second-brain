@@ -1,0 +1,50 @@
+---
+author: Mark P.
+fetched_at: '2026-11-08T09:42:29.014097Z'
+id: 7b0127cfda86
+lane: lead
+published: ''
+source: linkedin
+title: 'AI just broke the traditional patching model. 🛑
+
+
+
+  Finding bugs used to be hard.
+
+
+  Turning them into working exploits used'
+url: https://www.linkedin.com/posts/itmentor_ai-just-broke-the-traditional-patching-model-activity-7524971549695647744-cTBm
+---
+
+AI just broke the traditional patching model. 🛑
+
+
+Finding bugs used to be hard.
+
+Turning them into working exploits used to be harder.
+
+AI agents just compressed both steps down to the length of a coffee break.
+
+With time-to-exploit dropping under an hour, the old race to patch everything first is officially over.
+
+Yet many security teams are still flogging that dead horse, trying to outrun automation with manual cycles.
+
+That is like bringing a spreadsheet to a drone fight.
+
+If you accept that your systems will have vulnerability paths found and exploited quickly, the strategy has to change.
+
+The good news is that you have one structural advantage left.
+
+You know your own environment better than any outside attacker.
+
+That is why official guidance is finally shifting away from generic severity scores toward risk-based triage.
+
+Instead of drowning in a backlog of low-risk noise, you focus on what is actually exposed and reachable.
+
+Then you apply targeted mitigation at the edge or via runtime sensors, blocking the attack path immediately while the patch catches up.
+
+Stop trying to close every door before someone rattles the handle.
+
+Focus on locking the specific rooms that matter.
+
+More information : https://lnkd.in/eyjzbnWF

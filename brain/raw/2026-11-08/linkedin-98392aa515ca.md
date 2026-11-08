@@ -1,0 +1,45 @@
+---
+author: Ben Sterlini
+fetched_at: '2026-11-08T09:42:29.010197Z'
+id: 98392aa515ca
+lane: lead
+published: ''
+source: linkedin
+title: "Wait… are we all becoming managers of robots? \n\nI’m an analyst and entrepreneur,\
+  \ and I can feel the job changing. \n\nIncr"
+url: https://www.linkedin.com/posts/activity-7525108612264820736-EnjY
+---
+
+Wait… are we all becoming managers of robots? 
+
+I’m an analyst and entrepreneur, and I can feel the job changing. 
+
+Increasingly, I’m describing the outcome I want, using AI to help produce the code, checking what it generates, and iterating until the result is right. 
+
+Less time manually producing everything. 
+
+More time directing, reviewing, and validating the output. 
+
+At least, that’s how my experience has been evolving. 
+
+And it makes me wonder what the next version of the role looks like. 
+
+Will technical knowledge become less important? 
+
+I doubt it. 
+
+If anything, understanding the underlying logic becomes more important when you’re responsible for checking work produced by a tool you didn’t manually write. 
+
+But I do think the balance of skills is changing. 
+
+Being able to produce something is one advantage. 
+
+Being able to recognise when the thing you’ve produced is wrong is another. 
+
+And knowing what should be produced in the first place is a third. 
+
+The interesting question is how those skills will be valued as the tools improve. 
+
+I’m still figuring that out myself. 
+
+For those working in technical roles, are you spending more time doing the work or directing AI to do it?

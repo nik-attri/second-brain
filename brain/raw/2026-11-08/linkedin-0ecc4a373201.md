@@ -1,0 +1,62 @@
+---
+author: Abubakar Rabiu
+fetched_at: '2026-11-08T09:42:29.025646Z'
+id: 0ecc4a373201
+lane: lead
+published: ''
+source: linkedin
+title: '🚀Sharecare Hiring Remote Jobs 🌍
+
+
+  Sharecare is a digital healthcare company that delivers software and tech-enabled
+  servi'
+url: https://www.linkedin.com/posts/abubakar-rabiu-149b35137_jobs-recruitment-success-activity-7525126839418122240-_m9R
+---
+
+🚀Sharecare Hiring Remote Jobs 🌍
+
+Sharecare is a digital healthcare company that delivers software and tech-enabled services to stakeholders across the healthcare ecosystem to help improve care quality, drive better outcomes, and lower costs.
+
+We're are recruiting the following positions below:
+
+💼 Quality Control Specialist 
+
+Location: Remote
+
+🔗Link: https://wp.me/pcqReE-lxO
+
+💼 ROI Support Specialist
+
+Location: Remote
+
+🔗Link: https://wp.me/pcqReE-lxI
+
+💼 Care Advisor
+
+Location: Remote
+
+🔗Link: https://wp.me/pcqReE-lxE
+
+
+💼Customer Service Representative
+
+Location: Remote
+
+🔗Link: https://wp.me/pcqReE-lxA
+
+💼 ROI Medical Records Specialist
+
+Location: Remote
+
+🔗Link: https://wp.me/pcqReE-lxu
+
+💼Data Entry Specialist – Medical Records
+
+Location: Remote
+
+🔗Link: https://wp.me/pcqReE-lxp
+
+Even if this does not apply to you, share with those who might be interested 
+
+
+#jobs, #recruitment, #success #CareerOpportunities #CareerRecruitment #CareerHumanitarian #Apply #Repost #vacancy #Jobseekers #Jobsearch #hiringalert #hiringnow #hiringalert #success #Nonprofits  #NGO

@@ -1,0 +1,36 @@
+
+===== run 2026-11-08T09:42:10.845834Z =====
+
+--- ingest.py ---
+ingesting 2026-11-08
+  ! YouTube IP-blocked; falling back to descriptions this run
+  youtube @nicksaraev -> 15 (0 with transcript)
+  youtube @lennyspodcast -> 15 (0 with transcript)
+  youtube @campusx-official -> 15 (0 with transcript)
+  youtube @krishnaik06 -> 15 (0 with transcript)
+  transcript cache: 0 videos, 7 new fetches left
+  linkedin leads (6 queries) -> 60 posts
+  linkedin capability (1 authors) -> 0 posts
+fetched 120 raw items
+prefilter: 53 kept, 67 dropped (dupe/short/older than 7d)
+wrote 53 -> /home/runner/work/second-brain/second-brain/brain/raw/2026-11-08
+
+--- score.py ---
+scoring batch 1/5 (12 items)
+  ! Anthropic unavailable (BadRequestError) — switching to Gemini gemini-3.6-flash for the rest of this run
+scoring batch 2/5 (12 items)
+scoring batch 3/5 (12 items)
+scoring batch 4/5 (12 items)
+scoring batch 5/5 (5 items)
+
+BEFORE: 53 raw items
+AFTER:  2 kept (score >= 6)
+-> /home/runner/work/second-brain/second-brain/brain/scored/2026-11-08
+
+--- verify.py ---
+  ??  (unnamed) -> no company name to check
+  OK  ZB APEX Documents Services L.L.C -> https://find-and-update.company-information.service.gov.uk/officers/0kOt2uX5gmcU9F8eliU1Bi5tNAA/appointments
+verified 2 leads
+
+--- synthesize.py ---
+digest -> /home/runner/work/second-brain/second-brain/brain/synth/2026-11-08-digest.md (2 kept)

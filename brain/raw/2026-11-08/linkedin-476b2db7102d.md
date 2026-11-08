@@ -1,0 +1,43 @@
+---
+author: SMRM Solutions
+fetched_at: '2026-11-08T09:42:29.020732Z'
+id: 476b2db7102d
+lane: lead
+published: ''
+source: linkedin
+title: '🚀 We''re live! Introducing the new SMRM Solutions website.
+
+
+  Complex technology. Clear business outcomes.
+
+
+  We''re pleased t'
+url: https://www.linkedin.com/posts/smrm365_microsoft-365-sharepoint-power-platform-activity-7525128791287975936-voL-
+---
+
+🚀 We're live! Introducing the new SMRM Solutions website.
+
+Complex technology. Clear business outcomes.
+
+We're pleased to announce the launch of our new website!
+🌐 https://www.smrm365.co.uk
+
+At SMRM Solutions Ltd, we help organisations make better use of Microsoft 365, SharePoint and the Power Platform, turning complex technical challenges into practical, sustainable business solutions.
+
+Backed by over 20 years of hands-on experience, we specialise in:
+🔹 Microsoft 365 Consultancy & Solution Architecture – Designing solutions that are scalable, secure and built around business needs.
+
+🔹 Power Apps & Power Automate Development – Creating tailored applications and automating everyday business processes.
+
+🔹 SharePoint Migration & Modernisation – Helping organisations modernise their environments without unnecessary complexity.
+
+🔹 Application Rescue & Technical Remediation – Getting struggling applications, workflows and integrations back on track.
+
+🔹 Training & Professional Mentoring – Sharing practical knowledge and helping teams build their own capabilities.
+
+Whether you're planning a new project, improving an existing solution or simply need experienced technical guidance, we'd love to hear from you.
+
+👉 Take a look at our new website: https://www.smrm365.co.uk
+SMRM Solutions Ltd — Bridging Ambition and Achievement.
+
+#SMRMSolutions #Microsoft365 #PowerPlatform #PowerApps #PowerAutomate #SharePoint #DigitalTransformation
