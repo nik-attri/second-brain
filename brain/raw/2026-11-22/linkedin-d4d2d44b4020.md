@@ -1,0 +1,43 @@
+---
+author: Jibal Consultancy
+fetched_at: '2026-11-22T10:30:21.256339Z'
+id: d4d2d44b4020
+lane: lead
+published: ''
+source: linkedin
+title: '🚀 WE’RE HIRING | Event Manager
+
+
+  Are you an experienced Event Management professional with a strong background in
+  organiz'
+url: https://www.linkedin.com/posts/jibalconsultancy_jibalconsultancy-werehiring-hiringnow-activity-7530214878205313024-3JFA
+---
+
+🚀 WE’RE HIRING | Event Manager
+
+Are you an experienced Event Management professional with a strong background in organizing medical and commercial events? We're looking for a talented Event Manager to lead event planning, execution, and promotional activities.
+
+Key Responsibilities:
+
+- Plan and deliver medical and commercial events, including product launch events, local and international conferences, round tables, pharmacy days, and consumer activations.
+- Manage all promotional materials, from production and stock control to distribution to the field team.
+- Build and maintain relationships with vendors, including venues, agencies, printing companies, booth builders, and gift suppliers.
+- Negotiate quotations, manage event budgets, and maintain complete documentation.
+- Prepare and present post-event reports to evaluate results and performance.
+
+Requirements:
+
+- 3–5 years of experience in Event Management or Marketing Operations, preferably in the pharmaceutical, dermocosmetics, or healthcare industry.
+- Proven experience in organizing HCP events and conferences.
+- Strong network of vendors in Egypt with excellent negotiation skills.
+- Excellent organizational and planning skills.
+- Strong proficiency in Microsoft Excel.
+- Fluent in Arabic and English.
+- Willingness to travel and work flexible hours according to event schedules.
+
+📩 Interested candidates are invited to apply:
+
+📱 WhatsApp: 01220479954
+✉️ Email: solutions@jibalconsultancy.com
+
+#JibalConsultancy #WereHiring #HiringNow #EventManager #EventManagement #MarketingOperations #EventPlanning #EventCoordination #MedicalEvents #HCPEvents #HealthcareEvents #PharmaceuticalIndustry #PharmaJobs #Dermocosmetics #HealthcareMarketing #ConferenceManagement #ProductLaunch #VendorManagement #MarketingJobs #MarketingCareers #EgyptJobs #JobsInEgypt #JobVacancy #CareerOpportunities #Recruitment #TalentAcquisition #JoinOurTeam

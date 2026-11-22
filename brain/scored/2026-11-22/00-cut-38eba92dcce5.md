@@ -1,0 +1,49 @@
+---
+author: Event Control Hub
+automation_hypothesis: ''
+budget_signal: ''
+company: ''
+contact_name: ''
+hook: ''
+id: 38eba92dcce5
+lane: cut
+pain_signal: ''
+reason: Vendor promotional post for ECH Control Log AI software; disqualified as they
+  are building the solution themselves.
+score: 0
+scored_at: '2026-11-22T10:32:55.076871Z'
+source: linkedin
+unlocks: ''
+url: https://www.linkedin.com/posts/event-control-hub_did-you-know-your-ech-event-report-doesnt-activity-7530209451342123008-CP8v
+verdict: cut
+---
+
+💡 DID YOU KNOW? Your ECH event report doesn't just tell you what happened. It tells you what you should do next year.
+
+Imagine finishing an event and, instead of spending hours trawling through pages of incident logs, statistics and reports trying to work out what could have been improved, your event control system does the hard work for you.
+
+With ECH Control Log, our AI-powered Event Reports help you understand your event from start to finish.
+
+📊 Understand your event at a glance.
+
+🤖 AI-powered insights highlight key findings, recurring patterns and potential risks.
+
+📈 Identify areas for improvement with clear, practical recommendations for your next event.
+
+🚨 Understand operational performance, incident trends, outstanding logs and areas requiring attention.
+
+💡 Learn lessons for next year without spending hours manually analysing everything that happened.
+
+And it doesn't stop there. Your reports provide an executive overview, key findings, risk highlights, lessons learned and recommendations, helping you make informed decisions for future events.
+
+The screenshots below are test examples, but they give you an idea of what we're building and the level of insight ECH can provide.
+
+We don't just help you manage your event. We help you make the next one even better.
+
+Why spend hours analysing yesterday's event when your control system can help you understand what needs to happen tomorrow?
+
+🚀 Give ECH Control Log a go. Your first 7 days are FREE.
+
+👉 https://echcontrollog.com/
+
+ECH Control Log – Every log. One screen. Nothing missed.

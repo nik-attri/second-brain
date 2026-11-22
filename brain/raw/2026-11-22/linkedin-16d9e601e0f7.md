@@ -1,0 +1,29 @@
+---
+author: Yoke Yin (Candy) CHAN⚡
+fetched_at: '2026-11-22T10:30:21.253939Z'
+id: 16d9e601e0f7
+lane: lead
+published: ''
+source: linkedin
+title: 19 years. That’s how long I spent in the corporate administrative world, mastering
+  the art of supporting others while my
+url: https://www.linkedin.com/posts/yoke-yin-candy-chan_yokeyincandychan-aihustle-onepersonarmy-activity-7530087636909363201-wlQw
+---
+
+19 years. That’s how long I spent in the corporate administrative world, mastering the art of supporting others while my own entrepreneurial dreams stayed on the back burner.
+
+I used to see myself as just 'support staff.' My identity was wrapped up in managing schedules, filing reports, and being the engine in someone else's machine. The shift from admin to architect didn't happen overnight—it started with a 'Digital Dilemma.'
+
+I realized I was running a business, but the business was running me. I was drowning in manual social media updates and repetitive tasks. That’s when the Narrative Therapy approach changed everything for me. I had to reframe my internal operating system. 
+
+I stopped telling myself "I’m not a tech person" and started believing: "I am the conductor of the AI orchestra." 
+
+AI isn't here to replace the human touch; it’s here to handle the grunt work so you can focus on high-value, empathetic interactions. Investing time in these tools is like sharpening your axe—it feels like 'more work' now, but it saves you 10+ hours every single week later.
+
+Today, I don’t just manage feeds; I build systems. I’ve transitioned from being the person who does the work to the architect who designs the workflow.
+
+You don't need to be a mechanic to drive a car. You just need to decide where you're going. Are you ready to upgrade your operating system?
+
+Start automating your content for free and reclaim your time. 
+
+#YokeYinCandyCHAN #AIHustle #OnePersonArmy #AutomationStrategist #SingaporeAI #NLPCoaching #Productivity #DigitalTransformation

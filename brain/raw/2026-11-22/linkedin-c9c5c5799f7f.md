@@ -1,0 +1,42 @@
+---
+author: Jibal Consultancy
+fetched_at: '2026-11-22T10:30:21.255020Z'
+id: c9c5c5799f7f
+lane: lead
+published: ''
+source: linkedin
+title: '🚀 WE’RE HIRING | Warehouse Assistant
+
+
+  We are looking for a hardworking and organized Warehouse Assistant** to join our
+  t'
+url: https://www.linkedin.com/posts/jibalconsultancy_jibalconsultancy-werehiring-hiringnow-activity-7530215349569478656-yeOm
+---
+
+🚀 WE’RE HIRING | Warehouse Assistant
+
+We are looking for a hardworking and organized Warehouse Assistant** to join our team at our factory in 10th of Ramadan City.
+
+📍 Location: 10th of Ramadan City – Factory.
+
+Job Responsibilities:
+- Assist the Warehouse Manager/Storekeeper in daily warehouse operations.
+- Receive, store, arrange, and issue warehouse materials.
+- Ensure proper handling and organization of materials.
+- Maintain accurate warehouse records.
+- Maintain a clean, organized, and safe working environment.
+
+Job Requirements:
+- Male candidates only.
+- Maximum age: 35 years.
+- 0–1 year of experience in warehouse operations.
+- Must be a resident of 10th of Ramadan City.
+- Ability to receive, arrange, issue, and organize warehouse materials.
+- Hardworking, organized, and committed.
+
+📩 Interested candidates are invited to apply:
+
+📱 WhatsApp: 01220479954  
+✉️ Email: solutions@jibalconsultancy.com
+
+#JibalConsultancy #WereHiring #HiringNow #WarehouseAssistant #WarehouseJobs #Storekeeper #WarehouseOperations #WarehouseManagement #InventoryManagement #StockControl #LogisticsJobs #SupplyChain #FactoryJobs #ManufacturingJobs #10thOfRamadan #10thOfRamadanJobs #EgyptJobs #JobsInEgypt #JobVacancy #CareerOpportunities #Recruitment #TalentAcquisition #JoinOurTeam

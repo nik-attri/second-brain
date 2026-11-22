@@ -1,0 +1,75 @@
+---
+author: Didgeridata Mate
+fetched_at: '2026-11-22T10:30:21.263575Z'
+id: 35e1f22a4ab4
+lane: lead
+published: ''
+source: linkedin
+title: 'Would you leave your entire customer database on a table in the pub?
+
+
+  Imagine walking into your local with a folder cont'
+url: https://www.linkedin.com/posts/didgeridata-mate_would-you-leave-your-entire-customer-database-activity-7529971507498827776-ntR1
+---
+
+Would you leave your entire customer database on a table in the pub?
+
+Imagine walking into your local with a folder containing details of 2,000 customers.
+
+Names. Addresses. Phone numbers. Purchasing histories.
+
+The bloody lot.
+
+You spot a bloke sitting in the corner with a laptop.
+
+"Excuse me, mate. Could you analyse this and tell me which customers might buy more?"
+
+"Absolutely!" he replies.
+
+"Fantastic. Here's everything."
+
+You hand him the folder and wander off to order a pint.
+
+The barman looks confused.
+
+"Who's that bloke?"
+
+"No idea."
+
+"What's he going to do with your customer information?"
+
+"Dunno."
+
+"Is he going to keep a copy?"
+
+"Hadn't thought about that."
+
+Bloody hell.
+
+You wouldn't dream of doing that in a pub.
+
+Yet imagine an employee finding a free AI tool online and uploading the same customer spreadsheet without checking anything about the service.
+
+Now, I'm not saying AI tools are all dodgy.
+
+Plenty have proper business security and privacy arrangements.
+
+But you need to know what you're dealing with.
+
+Who's operating the service?
+
+What happens to the information you upload?
+
+Is it stored, shared or used to train AI?
+
+And did you really need to upload everyone's personal details in the first place?
+
+Sometimes sales totals without customer names would do the job perfectly well.
+
+AI can be incredibly useful for analysing business information.
+
+But your customers trusted YOU with their details.
+
+𝗧𝗵𝗮𝘁 𝗱𝗼𝗲𝘀𝗻'𝘁 𝗺𝗲𝗮𝗻 𝘆𝗼𝘂 𝘀𝗵𝗼𝘂𝗹𝗱 𝗵𝗮𝗻𝗱 𝘁𝗵𝗲𝗺 𝘁𝗼 𝗮𝗻𝘆 𝗯𝗹𝗼𝗸𝗲 𝘄𝗶𝘁𝗵 𝗮 𝗹𝗮𝗽𝘁𝗼𝗽 𝗮𝗻𝗱 𝗮 𝘀𝗵𝗶𝗻𝘆 𝘄𝗲𝗯𝘀𝗶𝘁𝗲.
+
+Even if he does offer a free trial.
