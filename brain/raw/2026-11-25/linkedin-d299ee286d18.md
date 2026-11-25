@@ -1,0 +1,50 @@
+---
+author: Ramesh Pemmasani
+fetched_at: '2026-11-25T11:53:20.640661Z'
+id: d299ee286d18
+lane: lead
+published: ''
+source: linkedin
+title: 'Hello Connection,
+
+   
+
+  We are hiring for “Client Relationship Manager : Australia / New Zealand / SEA"
+  Position in Coimbato'
+url: https://www.linkedin.com/posts/ramesh-pemmasani-a511b46_hello-connection-we-are-hiring-for-client-activity-7531318732745515008-Vimi
+---
+
+Hello Connection,
+ 
+We are hiring for “Client Relationship Manager : Australia / New Zealand / SEA" Position in Coimbatore , Tamil Nadu.
+ 
+Alternatively, you can share your resume to Sea.team@poweritservices.com
+
+Client Relationship Manager : Australia / New Zealand / SEA
+Location: Coimbatore | Experience: 4–7 Years | Employment: Full-time
+
+Job Summary
+We are looking for a Client Relationship Manager to manage existing client accounts, understand hiring requirements and ensure smooth coordination between clients, recruitment teams and vendors. The candidate will be responsible for maintaining strong client relationships, managing recruitment requirements and ensuring successful candidate onboarding.
+
+Key Responsibilities
+Manage and maintain relationships with existing domestic and international clients.
+Act as the primary point of contact for assigned client accounts.
+Receive, understand and communicate job requirements to the recruitment team.
+Coordinate with recruiters to ensure timely profile submissions.
+Review candidate profiles and ensure they meet client expectations.
+Coordinate interviews, feedback, salary negotiations and offer releases.
+Follow up on candidate documentation, background verification and onboarding.
+Manage client escalations and resolve recruitment-related issues.
+Coordinate with vendors and external recruitment partners.
+Maintain client-wise recruitment MIS and account performance reports.
+Identify opportunities to increase business from existing accounts.
+Ensure client satisfaction and long-term business relationships.
+
+Required Skills
+Experience in IT recruitment, client account management or staffing operations.
+Excellent communication and relationship management skills.
+Experience handling international clients is preferred.
+Strong negotiation, coordination and problem-solving abilities.
+Good knowledge of recruitment processes and MS Excel.
+
+Qualification: Any Bachelor's degree. MBA HR / Marketing is an added advantage.

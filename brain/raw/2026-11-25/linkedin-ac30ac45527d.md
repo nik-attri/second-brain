@@ -1,0 +1,40 @@
+---
+author: Asif Shah
+fetched_at: '2026-11-25T11:53:20.624643Z'
+id: ac30ac45527d
+lane: lead
+published: ''
+source: linkedin
+title: 'Anthropic just interviewed 58 companies about how they roll out AI.
+
+  The biggest wins did not come from automating more.'
+url: https://www.linkedin.com/posts/asifmshah_futureofwork-ai-leadership-activity-7531318700507877377-nedR
+---
+
+Anthropic just interviewed 58 companies about how they roll out AI.
+The biggest wins did not come from automating more. They came from redesigning jobs.
+
+The study, published Nov 23, is based on 66 interviews with Anthropic enterprise customers, from dentists and accountants to a trucking company. It is not a random sample, but the patterns are useful for any founder.
+
+3 ways companies roll out AI
+
+1. Top-down automation
+Pick a workflow and automate it. You get efficiency, but also job fears, surveillance worries and pushback from the very experts you need.
+
+2. Bottom-up experimentation
+Hand out tools and wait. You get pockets of brilliance, like an accountant who built an app for an 80-hour audit, but they rarely spread.
+
+3. Reorganizing around AI
+Broaden roles so one person owns a whole workflow. One firm merged lead sourcing, account executive and customer success into a single role.
+
+What stood out
+- Most value came from more output, not cost cuts
+- Only 2 companies had seen AI fully eliminate a position
+- Two-thirds reported hiring less because of AI
+
+My founder takeaway
+For a small firm like ours, buying AI is the easy part. Deciding who owns which workflow end to end is the real management work.
+
+How is your team rolling out AI: top-down, bottom-up, or by redesigning roles?
+
+#FutureOfWork #AI #Leadership #HR #Operations
